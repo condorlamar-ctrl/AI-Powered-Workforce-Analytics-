@@ -4,7 +4,7 @@ AI-Powered Workforce Analytics & Attrition Analysis
 
 The data contains **1,533 employees with a recorded exit date (51.1%)**, including **991 employees whose status is still Active**. A reproducible Jupyter Notebook audits that inconsistency and compares logistic regression, random forest, and gradient boosting with a majority baseline. The strongest nonbaseline candidate by training cross-validation achieved a holdout ROC-AUC of **0.491**, showing that useful predictive performance has not been established.
 
-**[Explore the raw dataset](employee_data.csv)** | **[Explore the cleaned dataset](employee_data_cleaned.csv)** | **[Open the Jupyter Notebook](workforce_machine_learning%20%281%29.ipynb)** | **[View model results](results/new_holdout_results.csv)**
+**[Explore the raw dataset](employee_data.csv)** | **[Explore the cleaned dataset](employee_data_cleaned.csv)** | **[Open the Jupyter Notebook](workforce_machine_learning%20%281%29.ipynb)** | **[View model results](#model-evaluation)**
 
 ## Business Problem
 
@@ -209,7 +209,7 @@ These are proposed next steps. The project does not report implemented intervent
 | [Corrected cause report](reproducibility_cause_report_corrected.csv) | Supported and unresolved explanations for reproducibility differences |
 | [Final reproducibility report](reproducibility_final_report.csv) | Saved controlled rerun comparisons |
 | [New CV results](results/new_cv_results.csv) | Reconstructed models' training-only cross-validation scores |
-| [New holdout results](results/new_holdout_results.csv) | Fresh holdout metrics used in this README |
+| [New holdout results](#model-evaluation) | Fresh holdout metrics used in this README |
 | [Validated run manifest](results/run_manifest.json) | Data snapshot, runtime versions, features, split fingerprint, and uncertainty results |
 | [Status/exit visualization](assets/target_status_audit.png) | Stacked employee counts illustrating label disagreements |
 | [Department visualization](assets/department_recorded_exits.png) | Department-level exit-date shares |
