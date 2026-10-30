@@ -1,0 +1,502 @@
+model,transformed_feature,source_feature,influence,signed_influence,support_count,rank,raw_level,exact_level_support,sparse_level
+Gradient Boosting Classifier,categorical__Division_General - Sga,Division,0.20426951325107884,,117,1,General - Sga,117,False
+Gradient Boosting Classifier,categorical__DepartmentType_Executive Office,DepartmentType,0.19334331933004575,,24,2,Executive Office,24,False
+Gradient Boosting Classifier,categorical__Title_BI Developer,Title,0.15560573202724953,,44,3,BI Developer,44,False
+Gradient Boosting Classifier,categorical__Division_Billable Consultants,Division,0.13877479094924822,,24,4,Billable Consultants,24,False
+Gradient Boosting Classifier,categorical__Title_Data Architect,Title,0.08708677661564479,,5,5,Data Architect,5,True
+Gradient Boosting Classifier,categorical__Title_Senior BI Developer,Title,0.06277151191092013,,30,6,Senior BI Developer,30,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Project Manager,JobFunctionDescription,0.05684292393908574,,96,7,Project Manager,96,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Top Hand,JobFunctionDescription,0.047380379668974626,,12,8,Top Hand,12,False
+Gradient Boosting Classifier,categorical__DepartmentType_Admin Offices,DepartmentType,0.039709167228165775,,80,9,Admin Offices,80,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Warehouse Technician,JobFunctionDescription,0.014215885079586661,,3,10,Warehouse Technician,3,True
+Gradient Boosting Classifier,categorical__Title_Accountant I,Title,0.0,,33,11,Accountant I,33,False
+Gradient Boosting Classifier,categorical__Title_Administrative Assistant,Title,0.0,,33,12,Administrative Assistant,33,False
+Gradient Boosting Classifier,categorical__Title_Area Sales Manager,Title,0.0,,297,13,Area Sales Manager,297,False
+Gradient Boosting Classifier,categorical__Title_BI Director,Title,0.0,,11,14,BI Director,11,False
+Gradient Boosting Classifier,categorical__Title_CIO,Title,0.0,,11,15,CIO,11,False
+Gradient Boosting Classifier,categorical__Title_Data Analyst,Title,0.0,,55,16,Data Analyst,55,False
+Gradient Boosting Classifier,categorical__Title_Database Administrator,Title,0.0,,25,17,Database Administrator,25,False
+Gradient Boosting Classifier,categorical__Title_Director of Operations,Title,0.0,,11,18,Director of Operations,11,False
+Gradient Boosting Classifier,categorical__Title_Director of Sales,Title,0.0,,11,19,Director of Sales,11,False
+Gradient Boosting Classifier,categorical__Title_Enterprise Architect,Title,0.0,,5,20,Enterprise Architect,5,True
+Gradient Boosting Classifier,categorical__Title_IT Director,Title,0.0,,11,21,IT Director,11,False
+Gradient Boosting Classifier,categorical__Title_IT Manager - DB,Title,0.0,,22,22,IT Manager - DB,22,False
+Gradient Boosting Classifier,categorical__Title_IT Manager - Infra,Title,0.0,,11,23,IT Manager - Infra,11,False
+Gradient Boosting Classifier,categorical__Title_IT Manager - Support,Title,0.0,,11,24,IT Manager - Support,11,False
+Gradient Boosting Classifier,categorical__Title_IT Support,Title,0.0,,88,25,IT Support,88,False
+Gradient Boosting Classifier,categorical__Title_Network Engineer,Title,0.0,,55,26,Network Engineer,55,False
+Gradient Boosting Classifier,categorical__Title_President & CEO,Title,0.0,,11,27,President & CEO,11,False
+Gradient Boosting Classifier,categorical__Title_Principal Data Architect,Title,0.0,,8,28,Principal Data Architect,8,True
+Gradient Boosting Classifier,categorical__Title_Production Manager,Title,0.0,,154,29,Production Manager,154,False
+Gradient Boosting Classifier,categorical__Title_Production Technician I,Title,0.0,,1321,30,Production Technician I,1321,False
+Gradient Boosting Classifier,categorical__Title_Production Technician II,Title,0.0,,516,31,Production Technician II,516,False
+Gradient Boosting Classifier,categorical__Title_Sales Manager,Title,0.0,,30,32,Sales Manager,30,False
+Gradient Boosting Classifier,categorical__Title_Shared Services Manager,Title,0.0,,20,33,Shared Services Manager,20,False
+Gradient Boosting Classifier,categorical__Title_Software Engineer,Title,0.0,,90,34,Software Engineer,90,False
+Gradient Boosting Classifier,categorical__Title_Software Engineering Manager,Title,0.0,,10,35,Software Engineering Manager,10,False
+Gradient Boosting Classifier,categorical__Title_Sr. Accountant,Title,0.0,,13,36,Sr. Accountant,13,False
+Gradient Boosting Classifier,categorical__Title_Sr. DBA,Title,0.0,,8,37,Sr. DBA,8,True
+Gradient Boosting Classifier,categorical__Title_Sr. Network Engineer,Title,0.0,,50,38,Sr. Network Engineer,50,False
+Gradient Boosting Classifier,categorical__BusinessUnit_BPC,BusinessUnit,0.0,,303,39,BPC,303,False
+Gradient Boosting Classifier,categorical__BusinessUnit_CCDR,BusinessUnit,0.0,,300,40,CCDR,300,False
+Gradient Boosting Classifier,categorical__BusinessUnit_EW,BusinessUnit,0.0,,302,41,EW,302,False
+Gradient Boosting Classifier,categorical__BusinessUnit_MSC,BusinessUnit,0.0,,296,42,MSC,296,False
+Gradient Boosting Classifier,categorical__BusinessUnit_NEL,BusinessUnit,0.0,,304,43,NEL,304,False
+Gradient Boosting Classifier,categorical__BusinessUnit_PL,BusinessUnit,0.0,,301,44,PL,301,False
+Gradient Boosting Classifier,categorical__BusinessUnit_PYZ,BusinessUnit,0.0,,299,45,PYZ,299,False
+Gradient Boosting Classifier,categorical__BusinessUnit_SVG,BusinessUnit,0.0,,304,46,SVG,304,False
+Gradient Boosting Classifier,categorical__BusinessUnit_TNS,BusinessUnit,0.0,,297,47,TNS,297,False
+Gradient Boosting Classifier,categorical__BusinessUnit_WBL,BusinessUnit,0.0,,294,48,WBL,294,False
+Gradient Boosting Classifier,categorical__EmployeeType_Contract,EmployeeType,0.0,,1008,49,Contract,1008,False
+Gradient Boosting Classifier,categorical__EmployeeType_Full-Time,EmployeeType,0.0,,1038,50,Full-Time,1038,False
+Gradient Boosting Classifier,categorical__EmployeeType_Part-Time,EmployeeType,0.0,,954,51,Part-Time,954,False
+Gradient Boosting Classifier,categorical__PayZone_Zone A,PayZone,0.0,,1062,52,Zone A,1062,False
+Gradient Boosting Classifier,categorical__PayZone_Zone B,PayZone,0.0,,985,53,Zone B,985,False
+Gradient Boosting Classifier,categorical__PayZone_Zone C,PayZone,0.0,,953,54,Zone C,953,False
+Gradient Boosting Classifier,categorical__EmployeeClassificationType_Full-Time,EmployeeClassificationType,0.0,,1013,55,Full-Time,1013,False
+Gradient Boosting Classifier,categorical__EmployeeClassificationType_Part-Time,EmployeeClassificationType,0.0,,954,56,Part-Time,954,False
+Gradient Boosting Classifier,categorical__EmployeeClassificationType_Temporary,EmployeeClassificationType,0.0,,1033,57,Temporary,1033,False
+Gradient Boosting Classifier,categorical__DepartmentType_IT/IS,DepartmentType,0.0,,430,58,IT/IS,430,False
+Gradient Boosting Classifier,categorical__DepartmentType_Production,DepartmentType,0.0,,2020,59,Production,2020,False
+Gradient Boosting Classifier,categorical__DepartmentType_Sales,DepartmentType,0.0,,331,60,Sales,331,False
+Gradient Boosting Classifier,categorical__DepartmentType_Software Engineering,DepartmentType,0.0,,115,61,Software Engineering,115,False
+Gradient Boosting Classifier,categorical__Division_Aerial,Division,0.0,,196,62,Aerial,196,False
+Gradient Boosting Classifier,categorical__Division_Catv,Division,0.0,,58,63,Catv,58,False
+Gradient Boosting Classifier,categorical__Division_Corp Operations,Division,0.0,,2,64,Corp Operations,2,True
+Gradient Boosting Classifier,categorical__Division_Engineers,Division,0.0,,275,65,Engineers,275,False
+Gradient Boosting Classifier,categorical__Division_Executive,Division,0.0,,43,66,Executive,43,False
+Gradient Boosting Classifier,categorical__Division_Field Operations,Division,0.0,,789,67,Field Operations,789,False
+Gradient Boosting Classifier,categorical__Division_Fielders,Division,0.0,,82,68,Fielders,82,False
+Gradient Boosting Classifier,categorical__Division_Finance & Accounting,Division,0.0,,70,69,Finance & Accounting,70,False
+Gradient Boosting Classifier,categorical__Division_General - Con,Division,0.0,,509,70,General - Con,509,False
+Gradient Boosting Classifier,categorical__Division_General - Eng,Division,0.0,,86,71,General - Eng,86,False
+Gradient Boosting Classifier,categorical__Division_Isp,Division,0.0,,14,72,Isp,14,False
+Gradient Boosting Classifier,categorical__Division_People Services,Division,0.0,,25,73,People Services,25,False
+Gradient Boosting Classifier,categorical__Division_Project Management - Con,Division,0.0,,178,74,Project Management - Con,178,False
+Gradient Boosting Classifier,categorical__Division_Project Management - Eng,Division,0.0,,16,75,Project Management - Eng,16,False
+Gradient Boosting Classifier,categorical__Division_Safety,Division,0.0,,9,76,Safety,9,True
+Gradient Boosting Classifier,categorical__Division_Sales & Marketing,Division,0.0,,9,77,Sales & Marketing,9,True
+Gradient Boosting Classifier,categorical__Division_Shop (Fleet),Division,0.0,,57,78,Shop (Fleet),57,False
+Gradient Boosting Classifier,categorical__Division_Splicing,Division,0.0,,110,79,Splicing,110,False
+Gradient Boosting Classifier,categorical__Division_Technology / It,Division,0.0,,26,80,Technology / It,26,False
+Gradient Boosting Classifier,categorical__Division_Underground,Division,0.0,,33,81,Underground,33,False
+Gradient Boosting Classifier,categorical__Division_Wireless,Division,0.0,,33,82,Wireless,33,False
+Gradient Boosting Classifier,categorical__Division_Wireline Construction,Division,0.0,,180,83,Wireline Construction,180,False
+Gradient Boosting Classifier,categorical__Division_Yard (Material Handling),Division,0.0,,59,84,Yard (Material Handling),59,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Accountant,JobFunctionDescription,0.0,,2,85,Accountant,2,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Accounting,JobFunctionDescription,0.0,,9,86,Accounting,9,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Administration,JobFunctionDescription,0.0,,23,87,Administration,23,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Administrative,JobFunctionDescription,0.0,,56,88,Administrative,56,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Administrator,JobFunctionDescription,0.0,,50,89,Administrator,50,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Analyst,JobFunctionDescription,0.0,,1,90,Analyst,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Apprentice,JobFunctionDescription,0.0,,6,91,Apprentice,6,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Assistant,JobFunctionDescription,0.0,,24,92,Assistant,24,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Associate,JobFunctionDescription,0.0,,7,93,Associate,7,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Attendant,JobFunctionDescription,0.0,,1,94,Attendant,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Billing,JobFunctionDescription,0.0,,13,95,Billing,13,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Business Development,JobFunctionDescription,0.0,,1,96,Business Development,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Ceo,JobFunctionDescription,0.0,,4,97,Ceo,4,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Cfo,JobFunctionDescription,0.0,,3,98,Cfo,3,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Chief Operating Officer,JobFunctionDescription,0.0,,1,99,Chief Operating Officer,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Cio,JobFunctionDescription,0.0,,1,100,Cio,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Civil Hand,JobFunctionDescription,0.0,,1,101,Civil Hand,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Clerical,JobFunctionDescription,0.0,,3,102,Clerical,3,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Clerk,JobFunctionDescription,0.0,,37,103,Clerk,37,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Construction Manager,JobFunctionDescription,0.0,,17,104,Construction Manager,17,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Contracts,JobFunctionDescription,0.0,,2,105,Contracts,2,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Controller,JobFunctionDescription,0.0,,7,106,Controller,7,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Coordinator,JobFunctionDescription,0.0,,96,107,Coordinator,96,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Cpo,JobFunctionDescription,0.0,,2,108,Cpo,2,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Crew Leader,JobFunctionDescription,0.0,,1,109,Crew Leader,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Director,JobFunctionDescription,0.0,,45,110,Director,45,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Drafter,JobFunctionDescription,0.0,,19,111,Drafter,19,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Driller,JobFunctionDescription,0.0,,38,112,Driller,38,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Driver,JobFunctionDescription,0.0,,36,113,Driver,36,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Electrician,JobFunctionDescription,0.0,,3,114,Electrician,3,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Engineer,JobFunctionDescription,0.0,,313,115,Engineer,313,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Estimator,JobFunctionDescription,0.0,,2,116,Estimator,2,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Executive,JobFunctionDescription,0.0,,4,117,Executive,4,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Executive Assistant,JobFunctionDescription,0.0,,6,118,Executive Assistant,6,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Field Project Manager,JobFunctionDescription,0.0,,9,119,Field Project Manager,9,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Field Technician,JobFunctionDescription,0.0,,4,120,Field Technician,4,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Flagger,JobFunctionDescription,0.0,,34,121,Flagger,34,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Foreman,JobFunctionDescription,0.0,,260,122,Foreman,260,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_General Manager,JobFunctionDescription,0.0,,1,123,General Manager,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Generalist,JobFunctionDescription,0.0,,1,124,Generalist,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Groundman,JobFunctionDescription,0.0,,51,125,Groundman,51,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Helpdesk,JobFunctionDescription,0.0,,2,126,Helpdesk,2,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Helper,JobFunctionDescription,0.0,,3,127,Helper,3,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Inspector,JobFunctionDescription,0.0,,1,128,Inspector,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Intern,JobFunctionDescription,0.0,,12,129,Intern,12,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Labor,JobFunctionDescription,0.0,,6,130,Labor,6,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Laborer,JobFunctionDescription,0.0,,522,131,Laborer,522,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Lineman,JobFunctionDescription,0.0,,169,132,Lineman,169,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Locator,JobFunctionDescription,0.0,,23,133,Locator,23,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Manager,JobFunctionDescription,0.0,,124,134,Manager,124,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Mechanic,JobFunctionDescription,0.0,,29,135,Mechanic,29,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Model Assistant,JobFunctionDescription,0.0,,13,136,Model Assistant,13,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Operator,JobFunctionDescription,0.0,,62,137,Operator,62,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Planner,JobFunctionDescription,0.0,,7,138,Planner,7,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Principal,JobFunctionDescription,0.0,,3,139,Principal,3,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Program Manager,JobFunctionDescription,0.0,,8,140,Program Manager,8,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Project Controls,JobFunctionDescription,0.0,,1,141,Project Controls,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Project Coordinator,JobFunctionDescription,0.0,,2,142,Project Coordinator,2,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Purchasing,JobFunctionDescription,0.0,,2,143,Purchasing,2,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Recruiter,JobFunctionDescription,0.0,,1,144,Recruiter,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Recruiting,JobFunctionDescription,0.0,,1,145,Recruiting,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Runner,JobFunctionDescription,0.0,,12,146,Runner,12,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Safety,JobFunctionDescription,0.0,,10,147,Safety,10,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Safety Manager,JobFunctionDescription,0.0,,2,148,Safety Manager,2,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Shop,JobFunctionDescription,0.0,,16,149,Shop,16,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Specialist,JobFunctionDescription,0.0,,15,150,Specialist,15,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Splicer,JobFunctionDescription,0.0,,67,151,Splicer,67,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Supervisor,JobFunctionDescription,0.0,,119,152,Supervisor,119,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Support,JobFunctionDescription,0.0,,1,153,Support,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Svp,JobFunctionDescription,0.0,,1,154,Svp,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Technician,JobFunctionDescription,0.0,,368,155,Technician,368,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Tester,JobFunctionDescription,0.0,,6,156,Tester,6,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Tower Hand,JobFunctionDescription,0.0,,39,157,Tower Hand,39,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Traffic,JobFunctionDescription,0.0,,1,158,Traffic,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Vp,JobFunctionDescription,0.0,,37,159,Vp,37,False
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Warehouse,JobFunctionDescription,0.0,,2,160,Warehouse,2,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Warehouse Manager,JobFunctionDescription,0.0,,1,161,Warehouse Manager,1,True
+Gradient Boosting Classifier,categorical__JobFunctionDescription_Welder,JobFunctionDescription,0.0,,5,162,Welder,5,True
+Gradient Boosting Classifier,categorical__Performance_Score_Exceeds,Performance_Score,0.0,,369,163,Exceeds,369,False
+Gradient Boosting Classifier,categorical__Performance_Score_Fully Meets,Performance_Score,0.0,,2361,164,Fully Meets,2361,False
+Gradient Boosting Classifier,categorical__Performance_Score_Needs Improvement,Performance_Score,0.0,,177,165,Needs Improvement,177,False
+Gradient Boosting Classifier,categorical__Performance_Score_PIP,Performance_Score,0.0,,93,166,PIP,93,False
+Gradient Boosting Classifier,numeric__Current_Employee_Rating,Current_Employee_Rating,0.0,,3000,167,,3000,False
+Logistic Regression,categorical__Title_Data Architect,Title,1.3052158889269916,1.3052158889269916,5,1,Data Architect,5,True
+Logistic Regression,categorical__Division_Billable Consultants,Division,1.1576143912319108,1.1576143912319108,24,2,Billable Consultants,24,False
+Logistic Regression,categorical__DepartmentType_Executive Office,DepartmentType,1.131553102969801,1.131553102969801,24,3,Executive Office,24,False
+Logistic Regression,categorical__JobFunctionDescription_Top Hand,JobFunctionDescription,1.0030424936463802,1.0030424936463802,12,4,Top Hand,12,False
+Logistic Regression,categorical__Title_BI Developer,Title,0.7918546812339179,0.7918546812339179,44,5,BI Developer,44,False
+Logistic Regression,categorical__JobFunctionDescription_Warehouse Technician,JobFunctionDescription,0.7447556709085777,-0.7447556709085777,3,6,Warehouse Technician,3,True
+Logistic Regression,categorical__Title_Senior BI Developer,Title,0.5475595717991713,0.5475595717991713,30,7,Senior BI Developer,30,False
+Logistic Regression,categorical__Division_General - Sga,Division,0.49783851936229273,-0.49783851936229273,117,8,General - Sga,117,False
+Logistic Regression,categorical__JobFunctionDescription_Project Manager,JobFunctionDescription,0.49134680430008587,-0.49134680430008587,96,9,Project Manager,96,False
+Logistic Regression,categorical__JobFunctionDescription_Construction Manager,JobFunctionDescription,0.4663216409308845,0.4663216409308845,17,10,Construction Manager,17,False
+Logistic Regression,categorical__JobFunctionDescription_Vp,JobFunctionDescription,0.45869630179900867,0.45869630179900867,37,11,Vp,37,False
+Logistic Regression,categorical__JobFunctionDescription_Tower Hand,JobFunctionDescription,0.4522281465771257,-0.4522281465771257,39,12,Tower Hand,39,False
+Logistic Regression,categorical__JobFunctionDescription_Controller,JobFunctionDescription,0.42659409958729083,0.42659409958729083,7,13,Controller,7,True
+Logistic Regression,categorical__JobFunctionDescription_Drafter,JobFunctionDescription,0.39163176444565545,-0.39163176444565545,19,14,Drafter,19,False
+Logistic Regression,categorical__Title_Principal Data Architect,Title,0.3303147158881425,-0.3303147158881425,8,15,Principal Data Architect,8,True
+Logistic Regression,categorical__JobFunctionDescription_Administrative,JobFunctionDescription,0.3090727681436579,0.3090727681436579,56,16,Administrative,56,False
+Logistic Regression,categorical__DepartmentType_Admin Offices,DepartmentType,0.3009530002944614,0.3009530002944614,80,17,Admin Offices,80,False
+Logistic Regression,categorical__Title_Sr. Network Engineer,Title,0.29777547942226806,0.29777547942226806,50,18,Sr. Network Engineer,50,False
+Logistic Regression,categorical__JobFunctionDescription_Clerk,JobFunctionDescription,0.2963098582509216,0.2963098582509216,37,19,Clerk,37,False
+Logistic Regression,categorical__Division_Catv,Division,0.2896475571090382,0.2896475571090382,58,20,Catv,58,False
+Logistic Regression,categorical__JobFunctionDescription_Manager,JobFunctionDescription,0.28015061587622997,0.28015061587622997,124,21,Manager,124,False
+Logistic Regression,categorical__BusinessUnit_PL,BusinessUnit,0.1818130635841416,-0.1818130635841416,301,22,PL,301,False
+Logistic Regression,categorical__Division_Splicing,Division,0.1814684086904843,-0.1814684086904843,110,23,Splicing,110,False
+Logistic Regression,categorical__JobFunctionDescription_Driver,JobFunctionDescription,0.17242014480822013,0.17242014480822013,36,24,Driver,36,False
+Logistic Regression,categorical__JobFunctionDescription_Coordinator,JobFunctionDescription,0.16907628639239275,0.16907628639239275,96,25,Coordinator,96,False
+Logistic Regression,categorical__Title_Database Administrator,Title,0.13634947746983844,-0.13634947746983844,25,26,Database Administrator,25,False
+Logistic Regression,categorical__BusinessUnit_NEL,BusinessUnit,0.1316478489696899,0.1316478489696899,304,27,NEL,304,False
+Logistic Regression,categorical__JobFunctionDescription_Associate,JobFunctionDescription,0.1242720980443628,0.1242720980443628,7,28,Associate,7,True
+Logistic Regression,categorical__JobFunctionDescription_Administrator,JobFunctionDescription,0.12423151857093775,-0.12423151857093775,50,29,Administrator,50,False
+Logistic Regression,categorical__JobFunctionDescription_Engineer,JobFunctionDescription,0.12040297268607952,-0.12040297268607952,313,30,Engineer,313,False
+Logistic Regression,categorical__JobFunctionDescription_Locator,JobFunctionDescription,0.11406857593643192,-0.11406857593643192,23,31,Locator,23,False
+Logistic Regression,categorical__Division_Engineers,Division,0.11395374557180542,0.11395374557180542,275,32,Engineers,275,False
+Logistic Regression,categorical__Division_General - Eng,Division,0.11205666560270446,0.11205666560270446,86,33,General - Eng,86,False
+Logistic Regression,categorical__JobFunctionDescription_Supervisor,JobFunctionDescription,0.1075429700794001,-0.1075429700794001,119,34,Supervisor,119,False
+Logistic Regression,categorical__Title_Production Technician II,Title,0.10083218800013252,-0.10083218800013252,516,35,Production Technician II,516,False
+Logistic Regression,categorical__Division_General - Con,Division,0.09913506830132088,0.09913506830132088,509,36,General - Con,509,False
+Logistic Regression,categorical__Division_Shop (Fleet),Division,0.09861218833250304,-0.09861218833250304,57,37,Shop (Fleet),57,False
+Logistic Regression,categorical__JobFunctionDescription_Accounting,JobFunctionDescription,0.09634781419504583,-0.09634781419504583,9,38,Accounting,9,True
+Logistic Regression,categorical__Title_IT Support,Title,0.09620825356072493,0.09620825356072493,88,39,IT Support,88,False
+Logistic Regression,categorical__BusinessUnit_MSC,BusinessUnit,0.09432193587059291,0.09432193587059291,296,40,MSC,296,False
+Logistic Regression,categorical__DepartmentType_Sales,DepartmentType,0.09335894244683553,-0.09335894244683553,331,41,Sales,331,False
+Logistic Regression,categorical__EmployeeClassificationType_Temporary,EmployeeClassificationType,0.09323994525850272,0.09323994525850272,1033,42,Temporary,1033,False
+Logistic Regression,categorical__Division_Finance & Accounting,Division,0.0914337302390083,0.0914337302390083,70,43,Finance & Accounting,70,False
+Logistic Regression,categorical__BusinessUnit_SVG,BusinessUnit,0.09075729471888071,0.09075729471888071,304,44,SVG,304,False
+Logistic Regression,categorical__Division_People Services,Division,0.08918400842025563,0.08918400842025563,25,45,People Services,25,False
+Logistic Regression,categorical__Division_Fielders,Division,0.08356576025875528,-0.08356576025875528,82,46,Fielders,82,False
+Logistic Regression,categorical__JobFunctionDescription_Driller,JobFunctionDescription,0.08159745647862608,-0.08159745647862608,38,47,Driller,38,False
+Logistic Regression,categorical__Title_Sr. DBA,Title,0.07883219208067026,-0.07883219208067026,8,48,Sr. DBA,8,True
+Logistic Regression,categorical__BusinessUnit_TNS,BusinessUnit,0.07601604873178919,-0.07601604873178919,297,49,TNS,297,False
+Logistic Regression,categorical__JobFunctionDescription_Tester,JobFunctionDescription,0.06748777225795376,-0.06748777225795376,6,50,Tester,6,True
+Logistic Regression,categorical__PayZone_Zone B,PayZone,0.062156709616037066,0.062156709616037066,985,51,Zone B,985,False
+Logistic Regression,categorical__Division_Wireline Construction,Division,0.06185285811100235,0.06185285811100235,180,52,Wireline Construction,180,False
+Logistic Regression,categorical__Title_Production Technician I,Title,0.0593716599335334,-0.0593716599335334,1321,53,Production Technician I,1321,False
+Logistic Regression,categorical__BusinessUnit_CCDR,BusinessUnit,0.05778248381110409,-0.05778248381110409,300,54,CCDR,300,False
+Logistic Regression,categorical__Division_Yard (Material Handling),Division,0.054806565188965393,0.054806565188965393,59,55,Yard (Material Handling),59,False
+Logistic Regression,categorical__BusinessUnit_PYZ,BusinessUnit,0.039554384608310275,0.039554384608310275,299,56,PYZ,299,False
+Logistic Regression,categorical__JobFunctionDescription_Operator,JobFunctionDescription,0.037842728058555354,-0.037842728058555354,62,57,Operator,62,False
+Logistic Regression,categorical__EmployeeClassificationType_Part-Time,EmployeeClassificationType,0.03154958773978848,-0.03154958773978848,954,58,Part-Time,954,False
+Logistic Regression,categorical__Title_Software Engineer,Title,0.030000490451915805,-0.030000490451915805,90,59,Software Engineer,90,False
+Logistic Regression,categorical__Performance_Score_Exceeds,Performance_Score,0.029992971791578987,0.029992971791578987,369,60,Exceeds,369,False
+Logistic Regression,categorical__EmployeeType_Part-Time,EmployeeType,0.028284613710976646,-0.028284613710976646,954,61,Part-Time,954,False
+Logistic Regression,categorical__Title_Enterprise Architect,Title,0.028207955517796864,0.028207955517796864,5,62,Enterprise Architect,5,True
+Logistic Regression,categorical__Title_Sr. Accountant,Title,0.021961367257316813,-0.021961367257316813,13,63,Sr. Accountant,13,False
+Logistic Regression,categorical__EmployeeType_Contract,EmployeeType,0.02185677088518987,0.02185677088518987,1008,64,Contract,1008,False
+Logistic Regression,categorical__Division_Aerial,Division,0.017833958312721013,-0.017833958312721013,196,65,Aerial,196,False
+Logistic Regression,categorical__JobFunctionDescription_Assistant,JobFunctionDescription,0.017097627697473673,-0.017097627697473673,24,66,Assistant,24,False
+Logistic Regression,categorical__Title_IT Manager - DB,Title,0.016822392382689864,0.016822392382689864,22,67,IT Manager - DB,22,False
+Logistic Regression,categorical__Performance_Score_Needs Improvement,Performance_Score,0.014945469518569962,-0.014945469518569962,177,68,Needs Improvement,177,False
+Logistic Regression,categorical__BusinessUnit_BPC,BusinessUnit,0.014921905876364116,-0.014921905876364116,303,69,BPC,303,False
+Logistic Regression,categorical__Title_Data Analyst,Title,0.014119734942378039,-0.014119734942378039,55,70,Data Analyst,55,False
+Logistic Regression,categorical__PayZone_Zone C,PayZone,0.01383391214548968,-0.01383391214548968,953,71,Zone C,953,False
+Logistic Regression,categorical__JobFunctionDescription_Apprentice,JobFunctionDescription,0.013491191585098813,-0.013491191585098813,6,72,Apprentice,6,True
+Logistic Regression,categorical__Division_Field Operations,Division,0.01276222776198036,-0.01276222776198036,789,73,Field Operations,789,False
+Logistic Regression,categorical__JobFunctionDescription_Director,JobFunctionDescription,0.009960442121072409,-0.009960442121072409,45,74,Director,45,False
+Logistic Regression,categorical__Performance_Score_PIP,Performance_Score,0.00816559716810814,0.00816559716810814,93,75,PIP,93,False
+Logistic Regression,categorical__BusinessUnit_EW,BusinessUnit,0.0069139588635591075,0.0069139588635591075,302,76,EW,302,False
+Logistic Regression,categorical__Title_Software Engineering Manager,Title,0.005652560710495918,0.005652560710495918,10,77,Software Engineering Manager,10,False
+Logistic Regression,categorical__Division_Project Management - Con,Division,0.005630096727807509,-0.005630096727807509,178,78,Project Management - Con,178,False
+Logistic Regression,categorical__Title_Accountant I,Title,0.0013516058795937488,0.0013516058795937488,33,79,Accountant I,33,False
+Logistic Regression,categorical__Title_Administrative Assistant,Title,0.0,0.0,33,80,Administrative Assistant,33,False
+Logistic Regression,categorical__Title_Area Sales Manager,Title,0.0,0.0,297,81,Area Sales Manager,297,False
+Logistic Regression,categorical__Title_BI Director,Title,0.0,0.0,11,82,BI Director,11,False
+Logistic Regression,categorical__Title_CIO,Title,0.0,0.0,11,83,CIO,11,False
+Logistic Regression,categorical__Title_Director of Operations,Title,0.0,0.0,11,84,Director of Operations,11,False
+Logistic Regression,categorical__Title_Director of Sales,Title,0.0,0.0,11,85,Director of Sales,11,False
+Logistic Regression,categorical__Title_IT Director,Title,0.0,0.0,11,86,IT Director,11,False
+Logistic Regression,categorical__Title_IT Manager - Infra,Title,0.0,0.0,11,87,IT Manager - Infra,11,False
+Logistic Regression,categorical__Title_IT Manager - Support,Title,0.0,0.0,11,88,IT Manager - Support,11,False
+Logistic Regression,categorical__Title_Network Engineer,Title,0.0,0.0,55,89,Network Engineer,55,False
+Logistic Regression,categorical__Title_President & CEO,Title,0.0,0.0,11,90,President & CEO,11,False
+Logistic Regression,categorical__Title_Production Manager,Title,0.0,0.0,154,91,Production Manager,154,False
+Logistic Regression,categorical__Title_Sales Manager,Title,0.0,0.0,30,92,Sales Manager,30,False
+Logistic Regression,categorical__Title_Shared Services Manager,Title,0.0,0.0,20,93,Shared Services Manager,20,False
+Logistic Regression,categorical__BusinessUnit_WBL,BusinessUnit,0.0,0.0,294,94,WBL,294,False
+Logistic Regression,categorical__EmployeeType_Full-Time,EmployeeType,0.0,0.0,1038,95,Full-Time,1038,False
+Logistic Regression,categorical__PayZone_Zone A,PayZone,0.0,0.0,1062,96,Zone A,1062,False
+Logistic Regression,categorical__EmployeeClassificationType_Full-Time,EmployeeClassificationType,0.0,0.0,1013,97,Full-Time,1013,False
+Logistic Regression,categorical__DepartmentType_IT/IS,DepartmentType,0.0,0.0,430,98,IT/IS,430,False
+Logistic Regression,categorical__DepartmentType_Production,DepartmentType,0.0,0.0,2020,99,Production,2020,False
+Logistic Regression,categorical__DepartmentType_Software Engineering,DepartmentType,0.0,0.0,115,100,Software Engineering,115,False
+Logistic Regression,categorical__Division_Corp Operations,Division,0.0,0.0,2,101,Corp Operations,2,True
+Logistic Regression,categorical__Division_Executive,Division,0.0,0.0,43,102,Executive,43,False
+Logistic Regression,categorical__Division_Isp,Division,0.0,0.0,14,103,Isp,14,False
+Logistic Regression,categorical__Division_Project Management - Eng,Division,0.0,0.0,16,104,Project Management - Eng,16,False
+Logistic Regression,categorical__Division_Safety,Division,0.0,0.0,9,105,Safety,9,True
+Logistic Regression,categorical__Division_Sales & Marketing,Division,0.0,0.0,9,106,Sales & Marketing,9,True
+Logistic Regression,categorical__Division_Technology / It,Division,0.0,0.0,26,107,Technology / It,26,False
+Logistic Regression,categorical__Division_Underground,Division,0.0,0.0,33,108,Underground,33,False
+Logistic Regression,categorical__Division_Wireless,Division,0.0,0.0,33,109,Wireless,33,False
+Logistic Regression,categorical__JobFunctionDescription_Accountant,JobFunctionDescription,0.0,0.0,2,110,Accountant,2,True
+Logistic Regression,categorical__JobFunctionDescription_Administration,JobFunctionDescription,0.0,0.0,23,111,Administration,23,False
+Logistic Regression,categorical__JobFunctionDescription_Analyst,JobFunctionDescription,0.0,0.0,1,112,Analyst,1,True
+Logistic Regression,categorical__JobFunctionDescription_Attendant,JobFunctionDescription,0.0,0.0,1,113,Attendant,1,True
+Logistic Regression,categorical__JobFunctionDescription_Billing,JobFunctionDescription,0.0,0.0,13,114,Billing,13,False
+Logistic Regression,categorical__JobFunctionDescription_Business Development,JobFunctionDescription,0.0,0.0,1,115,Business Development,1,True
+Logistic Regression,categorical__JobFunctionDescription_Ceo,JobFunctionDescription,0.0,0.0,4,116,Ceo,4,True
+Logistic Regression,categorical__JobFunctionDescription_Cfo,JobFunctionDescription,0.0,0.0,3,117,Cfo,3,True
+Logistic Regression,categorical__JobFunctionDescription_Chief Operating Officer,JobFunctionDescription,0.0,0.0,1,118,Chief Operating Officer,1,True
+Logistic Regression,categorical__JobFunctionDescription_Cio,JobFunctionDescription,0.0,0.0,1,119,Cio,1,True
+Logistic Regression,categorical__JobFunctionDescription_Civil Hand,JobFunctionDescription,0.0,0.0,1,120,Civil Hand,1,True
+Logistic Regression,categorical__JobFunctionDescription_Clerical,JobFunctionDescription,0.0,0.0,3,121,Clerical,3,True
+Logistic Regression,categorical__JobFunctionDescription_Contracts,JobFunctionDescription,0.0,0.0,2,122,Contracts,2,True
+Logistic Regression,categorical__JobFunctionDescription_Cpo,JobFunctionDescription,0.0,0.0,2,123,Cpo,2,True
+Logistic Regression,categorical__JobFunctionDescription_Crew Leader,JobFunctionDescription,0.0,0.0,1,124,Crew Leader,1,True
+Logistic Regression,categorical__JobFunctionDescription_Electrician,JobFunctionDescription,0.0,0.0,3,125,Electrician,3,True
+Logistic Regression,categorical__JobFunctionDescription_Estimator,JobFunctionDescription,0.0,0.0,2,126,Estimator,2,True
+Logistic Regression,categorical__JobFunctionDescription_Executive,JobFunctionDescription,0.0,0.0,4,127,Executive,4,True
+Logistic Regression,categorical__JobFunctionDescription_Executive Assistant,JobFunctionDescription,0.0,0.0,6,128,Executive Assistant,6,True
+Logistic Regression,categorical__JobFunctionDescription_Field Project Manager,JobFunctionDescription,0.0,0.0,9,129,Field Project Manager,9,True
+Logistic Regression,categorical__JobFunctionDescription_Field Technician,JobFunctionDescription,0.0,0.0,4,130,Field Technician,4,True
+Logistic Regression,categorical__JobFunctionDescription_Flagger,JobFunctionDescription,0.0,0.0,34,131,Flagger,34,False
+Logistic Regression,categorical__JobFunctionDescription_Foreman,JobFunctionDescription,0.0,0.0,260,132,Foreman,260,False
+Logistic Regression,categorical__JobFunctionDescription_General Manager,JobFunctionDescription,0.0,0.0,1,133,General Manager,1,True
+Logistic Regression,categorical__JobFunctionDescription_Generalist,JobFunctionDescription,0.0,0.0,1,134,Generalist,1,True
+Logistic Regression,categorical__JobFunctionDescription_Groundman,JobFunctionDescription,0.0,0.0,51,135,Groundman,51,False
+Logistic Regression,categorical__JobFunctionDescription_Helpdesk,JobFunctionDescription,0.0,0.0,2,136,Helpdesk,2,True
+Logistic Regression,categorical__JobFunctionDescription_Helper,JobFunctionDescription,0.0,0.0,3,137,Helper,3,True
+Logistic Regression,categorical__JobFunctionDescription_Inspector,JobFunctionDescription,0.0,0.0,1,138,Inspector,1,True
+Logistic Regression,categorical__JobFunctionDescription_Intern,JobFunctionDescription,0.0,0.0,12,139,Intern,12,False
+Logistic Regression,categorical__JobFunctionDescription_Labor,JobFunctionDescription,0.0,0.0,6,140,Labor,6,True
+Logistic Regression,categorical__JobFunctionDescription_Laborer,JobFunctionDescription,0.0,0.0,522,141,Laborer,522,False
+Logistic Regression,categorical__JobFunctionDescription_Lineman,JobFunctionDescription,0.0,0.0,169,142,Lineman,169,False
+Logistic Regression,categorical__JobFunctionDescription_Mechanic,JobFunctionDescription,0.0,0.0,29,143,Mechanic,29,False
+Logistic Regression,categorical__JobFunctionDescription_Model Assistant,JobFunctionDescription,0.0,0.0,13,144,Model Assistant,13,False
+Logistic Regression,categorical__JobFunctionDescription_Planner,JobFunctionDescription,0.0,0.0,7,145,Planner,7,True
+Logistic Regression,categorical__JobFunctionDescription_Principal,JobFunctionDescription,0.0,0.0,3,146,Principal,3,True
+Logistic Regression,categorical__JobFunctionDescription_Program Manager,JobFunctionDescription,0.0,0.0,8,147,Program Manager,8,True
+Logistic Regression,categorical__JobFunctionDescription_Project Controls,JobFunctionDescription,0.0,0.0,1,148,Project Controls,1,True
+Logistic Regression,categorical__JobFunctionDescription_Project Coordinator,JobFunctionDescription,0.0,0.0,2,149,Project Coordinator,2,True
+Logistic Regression,categorical__JobFunctionDescription_Purchasing,JobFunctionDescription,0.0,0.0,2,150,Purchasing,2,True
+Logistic Regression,categorical__JobFunctionDescription_Recruiter,JobFunctionDescription,0.0,0.0,1,151,Recruiter,1,True
+Logistic Regression,categorical__JobFunctionDescription_Recruiting,JobFunctionDescription,0.0,0.0,1,152,Recruiting,1,True
+Logistic Regression,categorical__JobFunctionDescription_Runner,JobFunctionDescription,0.0,0.0,12,153,Runner,12,False
+Logistic Regression,categorical__JobFunctionDescription_Safety,JobFunctionDescription,0.0,0.0,10,154,Safety,10,False
+Logistic Regression,categorical__JobFunctionDescription_Safety Manager,JobFunctionDescription,0.0,0.0,2,155,Safety Manager,2,True
+Logistic Regression,categorical__JobFunctionDescription_Shop,JobFunctionDescription,0.0,0.0,16,156,Shop,16,False
+Logistic Regression,categorical__JobFunctionDescription_Specialist,JobFunctionDescription,0.0,0.0,15,157,Specialist,15,False
+Logistic Regression,categorical__JobFunctionDescription_Splicer,JobFunctionDescription,0.0,0.0,67,158,Splicer,67,False
+Logistic Regression,categorical__JobFunctionDescription_Support,JobFunctionDescription,0.0,0.0,1,159,Support,1,True
+Logistic Regression,categorical__JobFunctionDescription_Svp,JobFunctionDescription,0.0,0.0,1,160,Svp,1,True
+Logistic Regression,categorical__JobFunctionDescription_Technician,JobFunctionDescription,0.0,0.0,368,161,Technician,368,False
+Logistic Regression,categorical__JobFunctionDescription_Traffic,JobFunctionDescription,0.0,0.0,1,162,Traffic,1,True
+Logistic Regression,categorical__JobFunctionDescription_Warehouse,JobFunctionDescription,0.0,0.0,2,163,Warehouse,2,True
+Logistic Regression,categorical__JobFunctionDescription_Warehouse Manager,JobFunctionDescription,0.0,0.0,1,164,Warehouse Manager,1,True
+Logistic Regression,categorical__JobFunctionDescription_Welder,JobFunctionDescription,0.0,0.0,5,165,Welder,5,True
+Logistic Regression,categorical__Performance_Score_Fully Meets,Performance_Score,0.0,0.0,2361,166,Fully Meets,2361,False
+Logistic Regression,numeric__Current_Employee_Rating,Current_Employee_Rating,0.0,0.0,3000,167,,3000,False
+Random Forest Classifier,numeric__Current_Employee_Rating,Current_Employee_Rating,0.06900414741742367,,3000,1,,3000,False
+Random Forest Classifier,categorical__EmployeeType_Contract,EmployeeType,0.024018420596591313,,1008,2,Contract,1008,False
+Random Forest Classifier,categorical__PayZone_Zone A,PayZone,0.023810420171509535,,1062,3,Zone A,1062,False
+Random Forest Classifier,categorical__EmployeeType_Full-Time,EmployeeType,0.023701589854989574,,1038,4,Full-Time,1038,False
+Random Forest Classifier,categorical__EmployeeType_Part-Time,EmployeeType,0.0234164313084745,,954,5,Part-Time,954,False
+Random Forest Classifier,categorical__Division_Field Operations,Division,0.023130550936458435,,789,6,Field Operations,789,False
+Random Forest Classifier,categorical__PayZone_Zone B,PayZone,0.023029377203797444,,985,7,Zone B,985,False
+Random Forest Classifier,categorical__EmployeeClassificationType_Full-Time,EmployeeClassificationType,0.022767860793570183,,1013,8,Full-Time,1013,False
+Random Forest Classifier,categorical__PayZone_Zone C,PayZone,0.02245543295759145,,953,9,Zone C,953,False
+Random Forest Classifier,categorical__EmployeeClassificationType_Temporary,EmployeeClassificationType,0.022106447672156065,,1033,10,Temporary,1033,False
+Random Forest Classifier,categorical__EmployeeClassificationType_Part-Time,EmployeeClassificationType,0.021622161075711546,,954,11,Part-Time,954,False
+Random Forest Classifier,categorical__JobFunctionDescription_Laborer,JobFunctionDescription,0.02159290247679726,,522,12,Laborer,522,False
+Random Forest Classifier,categorical__Title_Production Technician I,Title,0.01986297258788745,,1321,13,Production Technician I,1321,False
+Random Forest Classifier,categorical__JobFunctionDescription_Technician,JobFunctionDescription,0.018517958331877363,,368,14,Technician,368,False
+Random Forest Classifier,categorical__Performance_Score_Fully Meets,Performance_Score,0.018402698238227988,,2361,15,Fully Meets,2361,False
+Random Forest Classifier,categorical__Division_General - Con,Division,0.018189422720111596,,509,16,General - Con,509,False
+Random Forest Classifier,categorical__Title_Production Technician II,Title,0.01701170497918626,,516,17,Production Technician II,516,False
+Random Forest Classifier,categorical__BusinessUnit_BPC,BusinessUnit,0.01673648885000251,,303,18,BPC,303,False
+Random Forest Classifier,categorical__BusinessUnit_PYZ,BusinessUnit,0.016497819248604405,,299,19,PYZ,299,False
+Random Forest Classifier,categorical__BusinessUnit_EW,BusinessUnit,0.016276577282036263,,302,20,EW,302,False
+Random Forest Classifier,categorical__BusinessUnit_NEL,BusinessUnit,0.016077456647291658,,304,21,NEL,304,False
+Random Forest Classifier,categorical__BusinessUnit_CCDR,BusinessUnit,0.0157452987296353,,300,22,CCDR,300,False
+Random Forest Classifier,categorical__BusinessUnit_WBL,BusinessUnit,0.015568504440872252,,294,23,WBL,294,False
+Random Forest Classifier,categorical__BusinessUnit_SVG,BusinessUnit,0.015471716157611812,,304,24,SVG,304,False
+Random Forest Classifier,categorical__BusinessUnit_MSC,BusinessUnit,0.015176001028433537,,296,25,MSC,296,False
+Random Forest Classifier,categorical__BusinessUnit_TNS,BusinessUnit,0.015159817449557531,,297,26,TNS,297,False
+Random Forest Classifier,categorical__Performance_Score_Exceeds,Performance_Score,0.014833138344043541,,369,27,Exceeds,369,False
+Random Forest Classifier,categorical__BusinessUnit_PL,BusinessUnit,0.014754930306353418,,301,28,PL,301,False
+Random Forest Classifier,categorical__JobFunctionDescription_Foreman,JobFunctionDescription,0.014060239814669688,,260,29,Foreman,260,False
+Random Forest Classifier,categorical__JobFunctionDescription_Engineer,JobFunctionDescription,0.013030588190729537,,313,30,Engineer,313,False
+Random Forest Classifier,categorical__Division_Engineers,Division,0.013014374232544946,,275,31,Engineers,275,False
+Random Forest Classifier,categorical__DepartmentType_Production,DepartmentType,0.012914837533988673,,2020,32,Production,2020,False
+Random Forest Classifier,categorical__Division_Wireline Construction,Division,0.010900269673113272,,180,33,Wireline Construction,180,False
+Random Forest Classifier,categorical__JobFunctionDescription_Lineman,JobFunctionDescription,0.010294642028419326,,169,34,Lineman,169,False
+Random Forest Classifier,categorical__Division_Project Management - Con,Division,0.01025758269645375,,178,35,Project Management - Con,178,False
+Random Forest Classifier,categorical__Division_Aerial,Division,0.01016729702660722,,196,36,Aerial,196,False
+Random Forest Classifier,categorical__DepartmentType_IT/IS,DepartmentType,0.009713203153245045,,430,37,IT/IS,430,False
+Random Forest Classifier,categorical__DepartmentType_Sales,DepartmentType,0.009171705919844345,,331,38,Sales,331,False
+Random Forest Classifier,categorical__Title_Area Sales Manager,Title,0.009152054736501625,,297,39,Area Sales Manager,297,False
+Random Forest Classifier,categorical__Performance_Score_Needs Improvement,Performance_Score,0.00889615385191912,,177,40,Needs Improvement,177,False
+Random Forest Classifier,categorical__JobFunctionDescription_Supervisor,JobFunctionDescription,0.008774592577119012,,119,41,Supervisor,119,False
+Random Forest Classifier,categorical__JobFunctionDescription_Manager,JobFunctionDescription,0.008535829060651012,,124,42,Manager,124,False
+Random Forest Classifier,categorical__Title_Production Manager,Title,0.008397091894825577,,154,43,Production Manager,154,False
+Random Forest Classifier,categorical__JobFunctionDescription_Coordinator,JobFunctionDescription,0.007453596860741425,,96,44,Coordinator,96,False
+Random Forest Classifier,categorical__Division_General - Sga,Division,0.00732704852364999,,117,45,General - Sga,117,False
+Random Forest Classifier,categorical__Division_Splicing,Division,0.00704742062547282,,110,46,Splicing,110,False
+Random Forest Classifier,categorical__JobFunctionDescription_Project Manager,JobFunctionDescription,0.007001371474855035,,96,47,Project Manager,96,False
+Random Forest Classifier,categorical__Performance_Score_PIP,Performance_Score,0.006731560352917765,,93,48,PIP,93,False
+Random Forest Classifier,categorical__Division_General - Eng,Division,0.006508551511795956,,86,49,General - Eng,86,False
+Random Forest Classifier,categorical__Division_Fielders,Division,0.006029425296939724,,82,50,Fielders,82,False
+Random Forest Classifier,categorical__JobFunctionDescription_Splicer,JobFunctionDescription,0.005915757848622679,,67,51,Splicer,67,False
+Random Forest Classifier,categorical__JobFunctionDescription_Operator,JobFunctionDescription,0.00579344659523285,,62,52,Operator,62,False
+Random Forest Classifier,categorical__JobFunctionDescription_Groundman,JobFunctionDescription,0.005396715342917327,,51,53,Groundman,51,False
+Random Forest Classifier,categorical__Division_Catv,Division,0.005282593504217464,,58,54,Catv,58,False
+Random Forest Classifier,categorical__DepartmentType_Software Engineering,DepartmentType,0.004995427343214347,,115,55,Software Engineering,115,False
+Random Forest Classifier,categorical__Title_IT Support,Title,0.004784378570530966,,88,56,IT Support,88,False
+Random Forest Classifier,categorical__Division_Yard (Material Handling),Division,0.00472981570016084,,59,57,Yard (Material Handling),59,False
+Random Forest Classifier,categorical__Division_Finance & Accounting,Division,0.004623832041587449,,70,58,Finance & Accounting,70,False
+Random Forest Classifier,categorical__JobFunctionDescription_Tower Hand,JobFunctionDescription,0.004514731138043605,,39,59,Tower Hand,39,False
+Random Forest Classifier,categorical__JobFunctionDescription_Administrative,JobFunctionDescription,0.004488769681126662,,56,60,Administrative,56,False
+Random Forest Classifier,categorical__JobFunctionDescription_Director,JobFunctionDescription,0.004444052336320889,,45,61,Director,45,False
+Random Forest Classifier,categorical__DepartmentType_Admin Offices,DepartmentType,0.004305981511224003,,80,62,Admin Offices,80,False
+Random Forest Classifier,categorical__Title_Data Analyst,Title,0.0042401082514823465,,55,63,Data Analyst,55,False
+Random Forest Classifier,categorical__JobFunctionDescription_Driver,JobFunctionDescription,0.0042119861555508795,,36,64,Driver,36,False
+Random Forest Classifier,categorical__JobFunctionDescription_Driller,JobFunctionDescription,0.004159455952011205,,38,65,Driller,38,False
+Random Forest Classifier,categorical__JobFunctionDescription_Administrator,JobFunctionDescription,0.004072925485537639,,50,66,Administrator,50,False
+Random Forest Classifier,categorical__Division_Shop (Fleet),Division,0.004018789153887465,,57,67,Shop (Fleet),57,False
+Random Forest Classifier,categorical__Title_Software Engineer,Title,0.003923377042753314,,90,68,Software Engineer,90,False
+Random Forest Classifier,categorical__JobFunctionDescription_Clerk,JobFunctionDescription,0.003916553613323329,,37,69,Clerk,37,False
+Random Forest Classifier,categorical__Title_BI Developer,Title,0.0038614013105774973,,44,70,BI Developer,44,False
+Random Forest Classifier,categorical__Division_Billable Consultants,Division,0.0038118790385910377,,24,71,Billable Consultants,24,False
+Random Forest Classifier,categorical__Title_Network Engineer,Title,0.003529680476848488,,55,72,Network Engineer,55,False
+Random Forest Classifier,categorical__JobFunctionDescription_Flagger,JobFunctionDescription,0.003511409195263985,,34,73,Flagger,34,False
+Random Forest Classifier,categorical__Title_Sr. Network Engineer,Title,0.0034795601642336176,,50,74,Sr. Network Engineer,50,False
+Random Forest Classifier,categorical__JobFunctionDescription_Vp,JobFunctionDescription,0.0034311032308678453,,37,75,Vp,37,False
+Random Forest Classifier,categorical__Division_Executive,Division,0.0033635470069849076,,43,76,Executive,43,False
+Random Forest Classifier,categorical__Division_Wireless,Division,0.003321287417528671,,33,77,Wireless,33,False
+Random Forest Classifier,categorical__JobFunctionDescription_Mechanic,JobFunctionDescription,0.0032610307532720626,,29,78,Mechanic,29,False
+Random Forest Classifier,categorical__Division_Underground,Division,0.0032544871975236896,,33,79,Underground,33,False
+Random Forest Classifier,categorical__Division_Technology / It,Division,0.002919093389674846,,26,80,Technology / It,26,False
+Random Forest Classifier,categorical__DepartmentType_Executive Office,DepartmentType,0.002836387800046575,,24,81,Executive Office,24,False
+Random Forest Classifier,categorical__JobFunctionDescription_Construction Manager,JobFunctionDescription,0.0027713343151992494,,17,82,Construction Manager,17,False
+Random Forest Classifier,categorical__JobFunctionDescription_Locator,JobFunctionDescription,0.002770046473235572,,23,83,Locator,23,False
+Random Forest Classifier,categorical__Title_Senior BI Developer,Title,0.0027577219500612097,,30,84,Senior BI Developer,30,False
+Random Forest Classifier,categorical__Division_People Services,Division,0.002660668651776867,,25,85,People Services,25,False
+Random Forest Classifier,categorical__Title_Administrative Assistant,Title,0.0026339999738136054,,33,86,Administrative Assistant,33,False
+Random Forest Classifier,categorical__Title_Sales Manager,Title,0.0025750844291080577,,30,87,Sales Manager,30,False
+Random Forest Classifier,categorical__JobFunctionDescription_Administration,JobFunctionDescription,0.0025525079515664995,,23,88,Administration,23,False
+Random Forest Classifier,categorical__Title_Database Administrator,Title,0.0025079097866221437,,25,89,Database Administrator,25,False
+Random Forest Classifier,categorical__JobFunctionDescription_Assistant,JobFunctionDescription,0.002305836213371077,,24,90,Assistant,24,False
+Random Forest Classifier,categorical__JobFunctionDescription_Drafter,JobFunctionDescription,0.0022208898769151704,,19,91,Drafter,19,False
+Random Forest Classifier,categorical__Title_IT Manager - DB,Title,0.0019580973722492802,,22,92,IT Manager - DB,22,False
+Random Forest Classifier,categorical__Division_Isp,Division,0.001940686809109004,,14,93,Isp,14,False
+Random Forest Classifier,categorical__JobFunctionDescription_Shop,JobFunctionDescription,0.001911507504499238,,16,94,Shop,16,False
+Random Forest Classifier,categorical__JobFunctionDescription_Specialist,JobFunctionDescription,0.001758701006321879,,15,95,Specialist,15,False
+Random Forest Classifier,categorical__Title_Shared Services Manager,Title,0.0017311185171492273,,20,96,Shared Services Manager,20,False
+Random Forest Classifier,categorical__Title_Accountant I,Title,0.0016191404685902825,,33,97,Accountant I,33,False
+Random Forest Classifier,categorical__JobFunctionDescription_Runner,JobFunctionDescription,0.001613195708289976,,12,98,Runner,12,False
+Random Forest Classifier,categorical__JobFunctionDescription_Top Hand,JobFunctionDescription,0.0015174301806596836,,12,99,Top Hand,12,False
+Random Forest Classifier,categorical__JobFunctionDescription_Intern,JobFunctionDescription,0.00148691127653862,,12,100,Intern,12,False
+Random Forest Classifier,categorical__Division_Project Management - Eng,Division,0.0014511044981840879,,16,101,Project Management - Eng,16,False
+Random Forest Classifier,categorical__Title_BI Director,Title,0.0012845644697246114,,11,102,BI Director,11,False
+Random Forest Classifier,categorical__Title_CIO,Title,0.0012775342271255014,,11,103,CIO,11,False
+Random Forest Classifier,categorical__JobFunctionDescription_Safety,JobFunctionDescription,0.0012560798913987597,,10,104,Safety,10,False
+Random Forest Classifier,categorical__Title_Sr. Accountant,Title,0.0012326926669146685,,13,105,Sr. Accountant,13,False
+Random Forest Classifier,categorical__Title_Director of Sales,Title,0.0012309184896896223,,11,106,Director of Sales,11,False
+Random Forest Classifier,categorical__JobFunctionDescription_Model Assistant,JobFunctionDescription,0.0012290808291888175,,13,107,Model Assistant,13,False
+Random Forest Classifier,categorical__Title_Director of Operations,Title,0.0012069234644336141,,11,108,Director of Operations,11,False
+Random Forest Classifier,categorical__JobFunctionDescription_Billing,JobFunctionDescription,0.0012004650197317563,,13,109,Billing,13,False
+Random Forest Classifier,categorical__JobFunctionDescription_Accounting,JobFunctionDescription,0.0011913361267711594,,9,110,Accounting,9,True
+Random Forest Classifier,categorical__Title_IT Manager - Infra,Title,0.0011820454744528072,,11,111,IT Manager - Infra,11,False
+Random Forest Classifier,categorical__Title_IT Director,Title,0.001165824695333008,,11,112,IT Director,11,False
+Random Forest Classifier,categorical__JobFunctionDescription_Field Project Manager,JobFunctionDescription,0.0011656433114292564,,9,113,Field Project Manager,9,True
+Random Forest Classifier,categorical__Division_Safety,Division,0.0011311384590426679,,9,114,Safety,9,True
+Random Forest Classifier,categorical__Title_Data Architect,Title,0.00107394926956406,,5,115,Data Architect,5,True
+Random Forest Classifier,categorical__Division_Sales & Marketing,Division,0.0010580941501552447,,9,116,Sales & Marketing,9,True
+Random Forest Classifier,categorical__Title_Software Engineering Manager,Title,0.0010424995270296392,,10,117,Software Engineering Manager,10,False
+Random Forest Classifier,categorical__JobFunctionDescription_Warehouse Technician,JobFunctionDescription,0.0010368377271012612,,3,118,Warehouse Technician,3,True
+Random Forest Classifier,categorical__Title_President & CEO,Title,0.0009418178186269675,,11,119,President & CEO,11,False
+Random Forest Classifier,categorical__Title_IT Manager - Support,Title,0.0009327105564927169,,11,120,IT Manager - Support,11,False
+Random Forest Classifier,categorical__JobFunctionDescription_Apprentice,JobFunctionDescription,0.0009154536025636685,,6,121,Apprentice,6,True
+Random Forest Classifier,categorical__JobFunctionDescription_Program Manager,JobFunctionDescription,0.0009119241005746105,,8,122,Program Manager,8,True
+Random Forest Classifier,categorical__Title_Principal Data Architect,Title,0.0009049900546789424,,8,123,Principal Data Architect,8,True
+Random Forest Classifier,categorical__Title_Sr. DBA,Title,0.0008939673965677737,,8,124,Sr. DBA,8,True
+Random Forest Classifier,categorical__JobFunctionDescription_Executive Assistant,JobFunctionDescription,0.0007941329591751263,,6,125,Executive Assistant,6,True
+Random Forest Classifier,categorical__JobFunctionDescription_Associate,JobFunctionDescription,0.0007617207574657895,,7,126,Associate,7,True
+Random Forest Classifier,categorical__JobFunctionDescription_Controller,JobFunctionDescription,0.0007376917437757893,,7,127,Controller,7,True
+Random Forest Classifier,categorical__JobFunctionDescription_Executive,JobFunctionDescription,0.0006961176428791275,,4,128,Executive,4,True
+Random Forest Classifier,categorical__JobFunctionDescription_Field Technician,JobFunctionDescription,0.0006337634956651161,,4,129,Field Technician,4,True
+Random Forest Classifier,categorical__JobFunctionDescription_Tester,JobFunctionDescription,0.0006334969112859328,,6,130,Tester,6,True
+Random Forest Classifier,categorical__JobFunctionDescription_Electrician,JobFunctionDescription,0.0005447821166361576,,3,131,Electrician,3,True
+Random Forest Classifier,categorical__Title_Enterprise Architect,Title,0.0004947219726324649,,5,132,Enterprise Architect,5,True
+Random Forest Classifier,categorical__JobFunctionDescription_Principal,JobFunctionDescription,0.00047850755027804647,,3,133,Principal,3,True
+Random Forest Classifier,categorical__JobFunctionDescription_Planner,JobFunctionDescription,0.0004581890668422987,,7,134,Planner,7,True
+Random Forest Classifier,categorical__JobFunctionDescription_Cfo,JobFunctionDescription,0.0004078412821814808,,3,135,Cfo,3,True
+Random Forest Classifier,categorical__JobFunctionDescription_Helpdesk,JobFunctionDescription,0.00036573045980664494,,2,136,Helpdesk,2,True
+Random Forest Classifier,categorical__JobFunctionDescription_Clerical,JobFunctionDescription,0.0003173696701924517,,3,137,Clerical,3,True
+Random Forest Classifier,categorical__JobFunctionDescription_Inspector,JobFunctionDescription,0.0002969641806242804,,1,138,Inspector,1,True
+Random Forest Classifier,categorical__JobFunctionDescription_Cpo,JobFunctionDescription,0.0002933799915080648,,2,139,Cpo,2,True
+Random Forest Classifier,categorical__JobFunctionDescription_Purchasing,JobFunctionDescription,0.00029083883654024606,,2,140,Purchasing,2,True
+Random Forest Classifier,categorical__JobFunctionDescription_Business Development,JobFunctionDescription,0.00029036270449737044,,1,141,Business Development,1,True
+Random Forest Classifier,categorical__JobFunctionDescription_Estimator,JobFunctionDescription,0.000289909187531754,,2,142,Estimator,2,True
+Random Forest Classifier,categorical__JobFunctionDescription_Warehouse Manager,JobFunctionDescription,0.0002845375461877765,,1,143,Warehouse Manager,1,True
+Random Forest Classifier,categorical__JobFunctionDescription_Ceo,JobFunctionDescription,0.0002699595869153484,,4,144,Ceo,4,True
+Random Forest Classifier,categorical__JobFunctionDescription_Warehouse,JobFunctionDescription,0.00025882039991094056,,2,145,Warehouse,2,True
+Random Forest Classifier,categorical__JobFunctionDescription_Chief Operating Officer,JobFunctionDescription,0.00023854496388851735,,1,146,Chief Operating Officer,1,True
+Random Forest Classifier,categorical__JobFunctionDescription_Labor,JobFunctionDescription,0.00022259475728420947,,6,147,Labor,6,True
+Random Forest Classifier,categorical__JobFunctionDescription_Generalist,JobFunctionDescription,0.00020403811265724394,,1,148,Generalist,1,True
+Random Forest Classifier,categorical__JobFunctionDescription_Welder,JobFunctionDescription,0.00019976260151643662,,5,149,Welder,5,True
+Random Forest Classifier,categorical__JobFunctionDescription_Helper,JobFunctionDescription,0.00019154047222087538,,3,150,Helper,3,True
+Random Forest Classifier,categorical__JobFunctionDescription_Crew Leader,JobFunctionDescription,0.00018820920993469975,,1,151,Crew Leader,1,True
+Random Forest Classifier,categorical__JobFunctionDescription_Support,JobFunctionDescription,0.00018659495666825977,,1,152,Support,1,True
+Random Forest Classifier,categorical__JobFunctionDescription_Analyst,JobFunctionDescription,0.00018084052219842636,,1,153,Analyst,1,True
+Random Forest Classifier,categorical__JobFunctionDescription_Civil Hand,JobFunctionDescription,0.0001740475874400026,,1,154,Civil Hand,1,True
+Random Forest Classifier,categorical__JobFunctionDescription_Cio,JobFunctionDescription,0.00016960353753666093,,1,155,Cio,1,True
+Random Forest Classifier,categorical__JobFunctionDescription_Accountant,JobFunctionDescription,0.0001666426203179084,,2,156,Accountant,2,True
+Random Forest Classifier,categorical__JobFunctionDescription_Contracts,JobFunctionDescription,0.0001595079941038757,,2,157,Contracts,2,True
+Random Forest Classifier,categorical__JobFunctionDescription_Safety Manager,JobFunctionDescription,0.00015325359778333697,,2,158,Safety Manager,2,True
+Random Forest Classifier,categorical__JobFunctionDescription_Traffic,JobFunctionDescription,0.0001515971067547254,,1,159,Traffic,1,True
+Random Forest Classifier,categorical__JobFunctionDescription_Attendant,JobFunctionDescription,0.0001310781623756196,,1,160,Attendant,1,True
+Random Forest Classifier,categorical__Division_Corp Operations,Division,0.00012664547505951505,,2,161,Corp Operations,2,True
+Random Forest Classifier,categorical__JobFunctionDescription_Recruiting,JobFunctionDescription,0.00012647984444902894,,1,162,Recruiting,1,True
+Random Forest Classifier,categorical__JobFunctionDescription_Recruiter,JobFunctionDescription,0.00012052242734729005,,1,163,Recruiter,1,True
+Random Forest Classifier,categorical__JobFunctionDescription_Project Coordinator,JobFunctionDescription,0.00010635536008365866,,2,164,Project Coordinator,2,True
+Random Forest Classifier,categorical__JobFunctionDescription_Project Controls,JobFunctionDescription,0.00010464266974687865,,1,165,Project Controls,1,True
+Random Forest Classifier,categorical__JobFunctionDescription_Svp,JobFunctionDescription,8.674801584473875e-05,,1,166,Svp,1,True
+Random Forest Classifier,categorical__JobFunctionDescription_General Manager,JobFunctionDescription,8.427855743682465e-05,,1,167,General Manager,1,True
