@@ -1,0 +1,138 @@
+{
+  "source_commit": "1673c800e8b9d2d1ea05bd01a3a44a5100d89252",
+  "source_repository": "condorlamar-ctrl/AI-Powered-Workforce-Analytics-",
+  "source_files": [
+    {
+      "path": "approved_feature_support.csv",
+      "sha": "66f498304d55b2ff0ddcb4c3b1c9309ae023f456",
+      "bytes": 848
+    },
+    {
+      "path": "corrected_benchmark_reconciliation.csv",
+      "sha": "609a90dd807f4e64625373c9fff24a4ea9d12342",
+      "bytes": 2390
+    },
+    {
+      "path": "employee_attrition_preprocessing_recipe.csv",
+      "sha": "201eb92348891f6f1b2a96ac939ae11f0d84b35a",
+      "bytes": 4022
+    },
+    {
+      "path": "employee_attrition_target_audit.csv",
+      "sha": "ae2da48f606a73821867e16579907376aa58b5fc",
+      "bytes": 412
+    },
+    {
+      "path": "employee_data.csv",
+      "sha": "124af36855aab2f5f13fe97386b1e6173d6f7279",
+      "bytes": 779998
+    },
+    {
+      "path": "employee_data_cleaned.csv",
+      "sha": "66ac7bf6637f70b53c1d9ad724f3188f3b3a3011",
+      "bytes": 891887
+    },
+    {
+      "path": "employee_feature_influence_summary.csv",
+      "sha": "7cb87f767d0abb1c32a1d45a5879c425a4cbcc05",
+      "bytes": 54741
+    },
+    {
+      "path": "employee_model_benchmark_results.csv",
+      "sha": "56d76f41db9154ada1d1b69f9fee4dbe446df1ba",
+      "bytes": 2324
+    },
+    {
+      "path": "employee_model_predictions_holdout.csv",
+      "sha": "53f0052a5d1fd50c81af99abda5cca55ff668c85",
+      "bytes": 94719
+    },
+    {
+      "path": "employee_status_attrition_summary.csv",
+      "sha": "4a139b677a56b198a71787e5c471c25ce375f362",
+      "bytes": 409
+    },
+    {
+      "path": "exit_rates_by_organisation_lens.csv",
+      "sha": "02e1f9771f438f9b9226476bbceff7602093eaf8",
+      "bytes": 3943
+    },
+    {
+      "path": "feature_influence_comparison.csv",
+      "sha": "43d444556e647736de7e13e4e309d4ee046d3e95",
+      "bytes": 62679
+    },
+    {
+      "path": "feature_influence_exact_support.csv",
+      "sha": "debc3d1b96eb0112ddfffb768e687ea47167500f",
+      "bytes": 64189
+    },
+    {
+      "path": "near_tie_metric_summary.csv",
+      "sha": "e1619b6993056ef02ad2794ce3ad2f547e43d34b",
+      "bytes": 1242
+    },
+    {
+      "path": "relationships_attrition_summary.csv",
+      "sha": "22d25c5f1871f8085463ce2e050b9ffe36c30fab",
+      "bytes": 1274
+    },
+    {
+      "path": "reproducibility_cause_report_corrected.csv",
+      "sha": "4622bc9e7f08be374fb8927966173bb9eb324c2b",
+      "bytes": 8553
+    },
+    {
+      "path": "reproducibility_end_to_end_audit.csv",
+      "sha": "f07a402bb8b28192e84d1a6358aa8a78db6780c8",
+      "bytes": 2285
+    },
+    {
+      "path": "reproducibility_final_report.csv",
+      "sha": "3cd40e0966b37220eb9dc8081a5f61abb9959323",
+      "bytes": 1958
+    },
+    {
+      "path": "stability_overfitting_summary.csv",
+      "sha": "55ea5e18a802bb90c3c4e5e9f650cc4cf276977f",
+      "bytes": 958
+    }
+  ],
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.8"
+  },
+  "seed": 42,
+  "training_rows": 2400,
+  "holdout_rows": 600,
+  "cv_folds": 5,
+  "standard_deviation_ddof": 1,
+  "threshold": 0.5,
+  "split_fingerprint_sha256": "a00a0d3538a5cc32734767cc371bd219ef227517525bbdb5f3e820f19d842dc4",
+  "features": [
+    "Title",
+    "BusinessUnit",
+    "EmployeeType",
+    "PayZone",
+    "EmployeeClassificationType",
+    "DepartmentType",
+    "Division",
+    "JobFunctionDescription",
+    "Performance_Score",
+    "Current_Employee_Rating"
+  ],
+  "selected_by_training_cv": "Gradient Boosting Classifier",
+  "selected_holdout_roc_auc": 0.49077831263688004,
+  "selected_holdout_auc_bootstrap_interval": [
+    0.46714232898950353,
+    0.5156147315247939
+  ],
+  "original_solver_assumption": "liblinear for Logistic Regression",
+  "target": "ExitDate present; recorded exit classification, not future attrition",
+  "exact_replay_of_original_pipeline_claimed": false,
+  "repeatability_check_passed": true
+}
