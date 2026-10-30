@@ -1,0 +1,7 @@
+EmployeeStatus,recorded_exit,employee_count,row_percent,disagreement_flag,disagreement_direction
+Active,0,1467,48.9,False,Agreement
+Active,1,991,33.03333333333333,True,"Exit recorded, status Active"
+Future Start,1,69,2.3,False,Agreement
+Leave of Absence,1,86,2.8666666666666667,False,Agreement
+Terminated for Cause,1,66,2.1999999999999997,False,Agreement
+Voluntarily Terminated,1,321,10.7,False,Agreement
