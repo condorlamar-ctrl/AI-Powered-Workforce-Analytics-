@@ -1,4 +1,4 @@
-# AI-Powered Workforce Analytics & Attrition Analysis
+AI-Powered Workforce Analytics & Attrition Analysis
 
 **Analyzing 3,000 employee records to audit recorded exits, compare workforce patterns, and evaluate machine learning models.**
 
@@ -62,45 +62,45 @@ These comparisons describe the supplied snapshot. Department sizes differ substa
 
 ### 1. Recorded Exit Dates Versus Employee Status
 
-[View the full-size target audit](assets/target_status_audit.png)
+[View the full-size target audit](target_status_audit.png)
 
-![Employee counts by status, split between records with and without an exit date](assets/target_status_audit.png)
+![Employee counts by status, split between records with and without an exit date](target_status_audit.png)
 
 **Interpretation:** The Active group contains both **1,467 records without an exit date** and **991 with an exit date**. Status and exit-date presence cannot be treated as interchangeable outcome definitions.
 
 ### 2. Recorded Exits by Department
 
-[View the full-size department comparison](assets/department_recorded_exits.png)
+[View the full-size department comparison](department_recorded_exits.png)
 
-![Recorded-exit shares across six departments with the overall share shown as a reference](assets/department_recorded_exits.png)
+![Recorded-exit shares across six departments with the overall share shown as a reference](department_recorded_exits.png)
 
 **Interpretation:** Executive Office has the highest observed share (**79.2%**), while Sales has the lowest (**49.5%**). The dashed line marks the overall **51.1%** share. These are descriptive differences, not evidence that a department causes exits.
 
 ### 3. Model Performance Versus a Majority Baseline
 
-[View the full-size ROC and precision-recall comparison](assets/holdout_roc_precision_recall.png)
+[View the full-size ROC and precision-recall comparison](holdout_roc_precision_recall.png)
 
-![Holdout ROC and precision-recall curves for three classifiers and the majority baseline](assets/holdout_roc_precision_recall.png)
+![Holdout ROC and precision-recall curves for three classifiers and the majority baseline](holdout_roc_precision_recall.png)
 
 **Interpretation:** Holdout ROC-AUC ranges from approximately **0.464 to 0.497** across the trained models, compared with **0.500** for the baseline. Average precision is also close to the holdout positive-class share of **51.2%**. The curves do not demonstrate useful discrimination.
 
 ### 4. Gradient Boosting Confusion Matrix
 
-[View the full-size confusion matrix](assets/selected_candidate_confusion_matrix.png)
+[View the full-size confusion matrix](selected_candidate_confusion_matrix.png)
 
-![Confusion matrix for the candidate selected using training cross-validation](assets/selected_candidate_confusion_matrix.png)
+![Confusion matrix for the candidate selected using training cross-validation](selected_candidate_confusion_matrix.png)
 
 **Interpretation:** At a fixed **0.5** probability threshold, gradient boosting identifies **283 recorded exits**, misses **24**, and incorrectly flags **274 records without an exit date**. Its **92.2% recall** comes with **50.8% precision**; high recall alone does not establish a useful model.
 
 ### 5. Permutation Feature Importance
 
-[View the full-size feature diagnostic](assets/permutation_importance.png)
+[View the full-size feature diagnostic](permutation_importance.png)
 
-![Holdout ROC-AUC changes after shuffling each of the ten original model features](assets/permutation_importance.png)
+![Holdout ROC-AUC changes after shuffling each of the ten original model features](permutation_importance.png)
 
 **Interpretation:** Shuffling Division and DepartmentType produces small average AUC decreases, with substantial variation across permutations. Given the model's near-chance performance, these rankings are weak evidence about business drivers and do not establish causal effects. Error bars show permutation standard deviations, not confidence intervals.
 
-All five charts come from the validated notebook workflow. Keep the **assets/** folder beside this README so the image links render on GitHub.
+All five charts come from the validated notebook workflow. Keep all five PNG files in the **same folder as README.md** so the image links render on GitHub.
 
 ## Approach & Tools
 
@@ -211,8 +211,8 @@ These are proposed next steps. The project does not report implemented intervent
 | [New CV results](results/new_cv_results.csv) | Reconstructed models' training-only cross-validation scores |
 | [New holdout results](#model-evaluation) | Fresh holdout metrics used in this README |
 | [Validated run manifest](results/run_manifest.json) | Data snapshot, runtime versions, features, split fingerprint, and uncertainty results |
-| [Status/exit visualization](assets/target_status_audit.png) | Stacked employee counts illustrating label disagreements |
-| [Department visualization](assets/department_recorded_exits.png) | Department-level exit-date shares |
-| [Model performance visualization](assets/holdout_roc_precision_recall.png) | ROC and precision-recall curves against a baseline |
-| [Confusion matrix](assets/selected_candidate_confusion_matrix.png) | Correct and incorrect classifications for gradient boosting |
-| [Permutation importance visualization](assets/permutation_importance.png) | Diagnostic dependence on original model features |
+| [Status/exit visualization](target_status_audit.png) | Stacked employee counts illustrating label disagreements |
+| [Department visualization](department_recorded_exits.png) | Department-level exit-date shares |
+| [Model performance visualization](holdout_roc_precision_recall.png) | ROC and precision-recall curves against a baseline |
+| [Confusion matrix](selected_candidate_confusion_matrix.png) | Correct and incorrect classifications for gradient boosting |
+| [Permutation importance visualization](permutation_importance.png) | Diagnostic dependence on original model features |
