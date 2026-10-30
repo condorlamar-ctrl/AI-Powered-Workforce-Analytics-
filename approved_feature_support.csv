@@ -1,0 +1,12 @@
+field,scope,nonmissing_count,missing_count,unique_levels,smallest_level_count,largest_level_share,levels_fewer_than_10_records
+Title,Approved primary feature,3000,0,31,5,0.44033333333333335,4
+BusinessUnit,Approved primary feature,3000,0,10,294,0.10133333333333333,0
+EmployeeType,Approved primary feature,3000,0,3,954,0.346,0
+PayZone,Approved primary feature,3000,0,3,953,0.354,0
+EmployeeClassificationType,Approved primary feature,3000,0,3,954,0.3443333333333333,0
+DepartmentType,Approved primary feature,3000,0,6,24,0.6733333333333333,0
+Division,Approved primary feature,3000,0,25,2,0.263,3
+JobFunctionDescription,Approved primary feature,3000,0,83,1,0.174,48
+Performance_Score,Approved primary feature,3000,0,4,93,0.787,0
+Current_Employee_Rating,Approved primary feature,3000,0,5,270,0.51,0
+recorded_exit,Target,3000,0,2,1467,0.511,0
