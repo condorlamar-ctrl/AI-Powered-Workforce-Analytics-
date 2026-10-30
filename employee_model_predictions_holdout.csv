@@ -1,0 +1,1801 @@
+record_index,model,recorded_exit,predicted_class,predicted_probability,split_seed
+2399,Logistic Regression,1,1,0.5015750728075905,42
+1860,Logistic Regression,1,1,0.5476433522633906,42
+2714,Logistic Regression,0,1,0.5245636681761049,42
+2654,Logistic Regression,0,1,0.5766343200278528,42
+2509,Logistic Regression,0,0,0.45499169829982367,42
+838,Logistic Regression,1,0,0.46775124957769126,42
+603,Logistic Regression,0,0,0.49562112121915985,42
+1778,Logistic Regression,1,0,0.34318057565520094,42
+2539,Logistic Regression,1,1,0.5040084958715254,42
+936,Logistic Regression,0,1,0.6026500330120972,42
+2966,Logistic Regression,0,1,0.5234601396609337,42
+957,Logistic Regression,1,1,0.56769329110251,42
+2278,Logistic Regression,0,1,0.5369206127005521,42
+1776,Logistic Regression,1,1,0.5477815984856839,42
+2972,Logistic Regression,1,1,0.5291167549409227,42
+2473,Logistic Regression,1,1,0.5016959426597566,42
+2855,Logistic Regression,0,1,0.5075222670455579,42
+223,Logistic Regression,1,0,0.4891434792879424,42
+1611,Logistic Regression,0,0,0.47962059626196263,42
+1349,Logistic Regression,1,0,0.4833950306766396,42
+2733,Logistic Regression,0,0,0.4620209546828321,42
+2837,Logistic Regression,1,0,0.4198962903627486,42
+1365,Logistic Regression,0,0,0.48600823504305396,42
+1788,Logistic Regression,1,1,0.5700569519751826,42
+593,Logistic Regression,1,0,0.4880120744239666,42
+534,Logistic Regression,0,1,0.5284227978192637,42
+32,Logistic Regression,1,0,0.4874281503677031,42
+1142,Logistic Regression,0,0,0.4730413161414223,42
+2824,Logistic Regression,1,0,0.4795547303848933,42
+2575,Logistic Regression,0,0,0.48796017449686335,42
+2003,Logistic Regression,1,1,0.5179821676571551,42
+1978,Logistic Regression,1,1,0.5271238931967769,42
+1304,Logistic Regression,1,1,0.5174858688890436,42
+566,Logistic Regression,0,1,0.5051736355088676,42
+1544,Logistic Regression,1,1,0.5126238891850666,42
+1093,Logistic Regression,1,1,0.5845650828593655,42
+1134,Logistic Regression,0,1,0.5404819607067427,42
+1975,Logistic Regression,1,0,0.4008794349033978,42
+2409,Logistic Regression,0,1,0.5747043361970132,42
+2241,Logistic Regression,1,0,0.4811257009528564,42
+45,Logistic Regression,0,1,0.5049557486984606,42
+1326,Logistic Regression,1,0,0.4759858495871488,42
+1404,Logistic Regression,1,1,0.5131956630446358,42
+2770,Logistic Regression,0,1,0.5273078396252296,42
+1245,Logistic Regression,0,0,0.47316945705463076,42
+2093,Logistic Regression,0,0,0.4695289373842237,42
+2600,Logistic Regression,1,1,0.5954000106134765,42
+1795,Logistic Regression,1,1,0.5441331895901617,42
+1572,Logistic Regression,1,0,0.4269320719843353,42
+2309,Logistic Regression,0,1,0.5031777049309826,42
+1996,Logistic Regression,0,1,0.5400505673000174,42
+2640,Logistic Regression,0,0,0.4636076123692042,42
+2506,Logistic Regression,0,0,0.4988851332294595,42
+1932,Logistic Regression,1,0,0.4363402053027342,42
+1397,Logistic Regression,1,1,0.6494136241723432,42
+652,Logistic Regression,1,1,0.5778668545286999,42
+1959,Logistic Regression,0,1,0.5854158604347373,42
+2218,Logistic Regression,0,1,0.5680479596547876,42
+974,Logistic Regression,0,0,0.4157618020925408,42
+1144,Logistic Regression,0,0,0.4539633078294721,42
+1431,Logistic Regression,1,0,0.49457893546415965,42
+2331,Logistic Regression,1,0,0.4745671024730228,42
+29,Logistic Regression,0,1,0.5296568038331363,42
+2173,Logistic Regression,0,0,0.4776226206606873,42
+2277,Logistic Regression,1,0,0.4681701460368285,42
+540,Logistic Regression,1,1,0.5658345102253795,42
+2179,Logistic Regression,0,0,0.3332545276341515,42
+894,Logistic Regression,1,1,0.6684563299635166,42
+2370,Logistic Regression,0,1,0.5169645032042567,42
+2950,Logistic Regression,1,0,0.45988300056874454,42
+515,Logistic Regression,1,1,0.5459465732931393,42
+1665,Logistic Regression,0,0,0.49398401717066026,42
+245,Logistic Regression,0,1,0.5160795040223572,42
+576,Logistic Regression,1,0,0.4868891224008508,42
+2896,Logistic Regression,1,1,0.5159198778029808,42
+1745,Logistic Regression,1,0,0.487801925770622,42
+2110,Logistic Regression,1,1,0.5361993639341746,42
+2613,Logistic Regression,0,0,0.4675665127081328,42
+186,Logistic Regression,0,0,0.45723223953448877,42
+1019,Logistic Regression,1,1,0.5509693676258091,42
+2771,Logistic Regression,0,1,0.5610975060959545,42
+2281,Logistic Regression,1,0,0.49998675264438247,42
+388,Logistic Regression,0,1,0.5574148190275336,42
+2166,Logistic Regression,1,1,0.5535920386978191,42
+2798,Logistic Regression,1,1,0.5247650337158133,42
+2441,Logistic Regression,0,1,0.6026570511442255,42
+1890,Logistic Regression,0,1,0.607093485646077,42
+2237,Logistic Regression,0,1,0.5417345859001615,42
+1133,Logistic Regression,1,1,0.5094631860561967,42
+672,Logistic Regression,1,0,0.4896987592603712,42
+1362,Logistic Regression,0,1,0.5003524196093857,42
+426,Logistic Regression,1,1,0.5553459344011791,42
+1286,Logistic Regression,0,1,0.5680515314246758,42
+1739,Logistic Regression,0,0,0.46835167709419284,42
+910,Logistic Regression,1,1,0.6212082098968983,42
+2512,Logistic Regression,1,1,0.6275178686772171,42
+74,Logistic Regression,1,0,0.4413040930543522,42
+176,Logistic Regression,1,0,0.46549740966990166,42
+1121,Logistic Regression,0,1,0.5056489793021506,42
+326,Logistic Regression,1,0,0.4857415789764001,42
+824,Logistic Regression,0,0,0.4113331935742302,42
+2832,Logistic Regression,1,0,0.36321240886553485,42
+79,Logistic Regression,1,1,0.535837794356349,42
+1645,Logistic Regression,0,0,0.4720869166351007,42
+2536,Logistic Regression,0,1,0.5638408675720319,42
+1335,Logistic Regression,1,0,0.45295932447537246,42
+2135,Logistic Regression,1,0,0.47658229064467045,42
+1561,Logistic Regression,1,0,0.4917374471625654,42
+469,Logistic Regression,1,0,0.4168092036013121,42
+1876,Logistic Regression,1,1,0.5969008770155746,42
+716,Logistic Regression,1,0,0.4569273940602421,42
+2652,Logistic Regression,1,0,0.45304573097774614,42
+2052,Logistic Regression,1,1,0.5379881264577545,42
+2913,Logistic Regression,0,0,0.49913922304548847,42
+811,Logistic Regression,1,1,0.5068143070175986,42
+1967,Logistic Regression,1,0,0.44808546959736933,42
+2833,Logistic Regression,0,1,0.5661876764651397,42
+1965,Logistic Regression,0,1,0.5150310614303121,42
+775,Logistic Regression,1,1,0.5672136662902828,42
+1571,Logistic Regression,0,1,0.5211292165096623,42
+1742,Logistic Regression,1,1,0.5306160968706771,42
+2121,Logistic Regression,1,1,0.6745458105707376,42
+2008,Logistic Regression,1,1,0.5270048533649916,42
+1824,Logistic Regression,0,1,0.5401723050679861,42
+2502,Logistic Regression,1,0,0.4877126546179843,42
+1376,Logistic Regression,1,1,0.5425217768837466,42
+84,Logistic Regression,1,1,0.5054963889812997,42
+413,Logistic Regression,1,1,0.575411126020687,42
+1007,Logistic Regression,1,0,0.43104195903841225,42
+1342,Logistic Regression,1,1,0.5125030049300918,42
+2020,Logistic Regression,1,1,0.5600126632736252,42
+399,Logistic Regression,1,0,0.4838818512269368,42
+1968,Logistic Regression,0,0,0.48938658547124975,42
+497,Logistic Regression,0,1,0.6435292074608999,42
+441,Logistic Regression,0,1,0.5964785612042873,42
+2884,Logistic Regression,1,0,0.39139074942954316,42
+2911,Logistic Regression,0,1,0.5677492649758386,42
+1485,Logistic Regression,1,0,0.4859573382932158,42
+2898,Logistic Regression,1,0,0.49275918205325625,42
+1763,Logistic Regression,1,1,0.5079983625589212,42
+2416,Logistic Regression,0,1,0.5420172252463122,42
+1693,Logistic Regression,0,1,0.5121026343449518,42
+182,Logistic Regression,0,0,0.46257353150342007,42
+887,Logistic Regression,1,1,0.5119442939365745,42
+154,Logistic Regression,1,1,0.5154173373491024,42
+621,Logistic Regression,0,1,0.5351926777096191,42
+1676,Logistic Regression,0,1,0.6318960267673414,42
+1551,Logistic Regression,1,0,0.4966633353947277,42
+799,Logistic Regression,0,0,0.4842616884514858,42
+1518,Logistic Regression,1,0,0.4793656578718329,42
+1306,Logistic Regression,1,1,0.5070045458277779,42
+2858,Logistic Regression,1,1,0.5392770658772424,42
+2092,Logistic Regression,0,0,0.46514282202724966,42
+2455,Logistic Regression,1,0,0.42410975545254037,42
+2742,Logistic Regression,1,0,0.4698102212396905,42
+1165,Logistic Regression,1,0,0.491043979190629,42
+2787,Logistic Regression,0,1,0.5514249725533725,42
+2434,Logistic Regression,0,1,0.5300266835687051,42
+2319,Logistic Regression,1,0,0.4448616776297667,42
+1103,Logistic Regression,0,1,0.697011914760482,42
+2976,Logistic Regression,1,0,0.49119939626155257,42
+1583,Logistic Regression,1,1,0.5801418435675161,42
+2991,Logistic Regression,0,1,0.5848864660785199,42
+2676,Logistic Regression,1,0,0.4286790837552772,42
+159,Logistic Regression,1,1,0.5867992023136636,42
+2717,Logistic Regression,0,0,0.4868928322679206,42
+953,Logistic Regression,0,1,0.5765128927563892,42
+1151,Logistic Regression,1,0,0.36844556925529176,42
+2313,Logistic Regression,0,1,0.5000133092171463,42
+2852,Logistic Regression,1,0,0.3791524596745199,42
+421,Logistic Regression,0,1,0.5369152437598282,42
+53,Logistic Regression,1,0,0.4965847066450892,42
+2628,Logistic Regression,1,0,0.4687771468025874,42
+1145,Logistic Regression,1,0,0.4129143795217091,42
+2642,Logistic Regression,1,1,0.5957656699428096,42
+440,Logistic Regression,0,1,0.8570421168977762,42
+464,Logistic Regression,0,1,0.5145046542261551,42
+2825,Logistic Regression,0,0,0.4875725625597806,42
+1169,Logistic Regression,1,0,0.352522771171681,42
+2745,Logistic Regression,0,0,0.4875369000606942,42
+808,Logistic Regression,0,1,0.5467924960077034,42
+1807,Logistic Regression,1,1,0.5306755618170769,42
+1956,Logistic Regression,0,1,0.529686448364444,42
+895,Logistic Regression,1,1,0.5716154660327432,42
+1858,Logistic Regression,0,1,0.5567371565034508,42
+2786,Logistic Regression,1,0,0.47410232755136333,42
+495,Logistic Regression,0,1,0.5272919031037996,42
+1196,Logistic Regression,1,1,0.7285549564676572,42
+431,Logistic Regression,0,1,0.5773423960061088,42
+1130,Logistic Regression,1,0,0.4061414279567499,42
+1870,Logistic Regression,1,0,0.4850163666620968,42
+1331,Logistic Regression,0,0,0.3920352538929384,42
+947,Logistic Regression,0,1,0.6169449106104063,42
+2040,Logistic Regression,1,1,0.5156502463772956,42
+832,Logistic Regression,1,1,0.5557079199644601,42
+1641,Logistic Regression,0,0,0.42093551138106244,42
+1322,Logistic Regression,0,0,0.41418947045752275,42
+1780,Logistic Regression,0,0,0.49746102816306065,42
+727,Logistic Regression,1,0,0.4942013970548213,42
+630,Logistic Regression,0,0,0.48896087392772414,42
+2797,Logistic Regression,0,1,0.5844057408587309,42
+679,Logistic Regression,0,1,0.505451934587819,42
+1969,Logistic Regression,1,1,0.5147168125356589,42
+1832,Logistic Regression,0,0,0.49308688581079435,42
+444,Logistic Regression,0,1,0.560348889647177,42
+234,Logistic Regression,1,1,0.6444907913026163,42
+2644,Logistic Regression,1,0,0.4927823809806987,42
+1505,Logistic Regression,1,0,0.26811130661041777,42
+2360,Logistic Regression,0,0,0.4777806787320275,42
+1733,Logistic Regression,1,1,0.5321964106329576,42
+2236,Logistic Regression,1,0,0.4420243238598776,42
+1602,Logistic Regression,0,0,0.49617302865351254,42
+1132,Logistic Regression,1,1,0.5311522741184709,42
+2083,Logistic Regression,1,1,0.5368705230843995,42
+2915,Logistic Regression,0,0,0.4919002593244147,42
+2185,Logistic Regression,1,0,0.4537832736309904,42
+1552,Logistic Regression,1,1,0.525190040111824,42
+9,Logistic Regression,1,1,0.5030954518838527,42
+2088,Logistic Regression,0,0,0.38495584606543776,42
+2394,Logistic Regression,1,0,0.4753823468917215,42
+1913,Logistic Regression,1,1,0.5344990301308169,42
+2560,Logistic Regression,0,0,0.46257353150342007,42
+2298,Logistic Regression,0,1,0.5180457200074866,42
+1415,Logistic Regression,0,1,0.5459032903952071,42
+1600,Logistic Regression,0,0,0.4292991803688009,42
+2948,Logistic Regression,1,1,0.56914892053168,42
+1018,Logistic Regression,1,0,0.4933606842154741,42
+1037,Logistic Regression,0,0,0.3669715933844723,42
+2578,Logistic Regression,0,1,0.5172676519068884,42
+1522,Logistic Regression,0,0,0.49462719401215993,42
+1323,Logistic Regression,0,0,0.3686073508118202,42
+2839,Logistic Regression,0,0,0.4916396505773765,42
+798,Logistic Regression,0,0,0.4879378187494234,42
+2013,Logistic Regression,0,1,0.5544348944661209,42
+2831,Logistic Regression,0,0,0.4983810029018045,42
+2562,Logistic Regression,0,0,0.41689634671096093,42
+2518,Logistic Regression,1,1,0.5485697141729429,42
+1379,Logistic Regression,0,0,0.4884261455300413,42
+2936,Logistic Regression,0,1,0.5292506500268744,42
+2299,Logistic Regression,1,0,0.4941231075145977,42
+2462,Logistic Regression,1,0,0.44032440314927074,42
+2849,Logistic Regression,0,0,0.40625943991529007,42
+1378,Logistic Regression,1,1,0.5057420455566456,42
+551,Logistic Regression,0,1,0.5297275459276245,42
+827,Logistic Regression,0,1,0.5205674777715513,42
+1411,Logistic Regression,0,0,0.48543578027015877,42
+2629,Logistic Regression,0,1,0.593886663253553,42
+1035,Logistic Regression,0,0,0.4687481285218161,42
+2934,Logistic Regression,1,1,0.5347155383675285,42
+1025,Logistic Regression,0,1,0.5075046664761494,42
+1330,Logistic Regression,0,1,0.5522247061170341,42
+1336,Logistic Regression,0,1,0.5183747902952852,42
+331,Logistic Regression,1,1,0.5349511856578775,42
+729,Logistic Regression,1,1,0.6099113586953565,42
+2738,Logistic Regression,1,0,0.4570970365319625,42
+1036,Logistic Regression,0,1,0.5382858653720377,42
+57,Logistic Regression,0,1,0.5116384425175772,42
+766,Logistic Regression,1,1,0.5421369024600695,42
+1760,Logistic Regression,0,0,0.47381736187039275,42
+714,Logistic Regression,0,0,0.4590058047202364,42
+2666,Logistic Regression,1,0,0.4549749232073213,42
+588,Logistic Regression,0,1,0.6614662886165568,42
+2478,Logistic Regression,0,0,0.4398742063753345,42
+2225,Logistic Regression,1,0,0.4702783946531439,42
+1409,Logistic Regression,0,1,0.5232068370843199,42
+829,Logistic Regression,0,0,0.47360065295256215,42
+2486,Logistic Regression,0,0,0.4439420656200921,42
+905,Logistic Regression,0,1,0.6797448782700075,42
+27,Logistic Regression,0,1,0.5274498899723304,42
+786,Logistic Regression,0,1,0.5242563780774562,42
+2599,Logistic Regression,0,0,0.46927001661743084,42
+2569,Logistic Regression,1,1,0.5482755336322412,42
+1100,Logistic Regression,1,0,0.47821591365911104,42
+14,Logistic Regression,0,0,0.49025448197012755,42
+288,Logistic Regression,0,1,0.5277238842138174,42
+2986,Logistic Regression,0,1,0.5176359231153331,42
+1936,Logistic Regression,1,1,0.5208569917598851,42
+39,Logistic Regression,1,0,0.47553253380307003,42
+2993,Logistic Regression,1,1,0.5203314660590465,42
+2359,Logistic Regression,0,0,0.4869571445405168,42
+722,Logistic Regression,0,0,0.48877845380705737,42
+1360,Logistic Regression,1,1,0.5241089479442398,42
+365,Logistic Regression,1,1,0.5059268314012623,42
+1255,Logistic Regression,0,0,0.4978506404185032,42
+161,Logistic Regression,1,0,0.48995887231842805,42
+1543,Logistic Regression,1,1,0.5046353462757707,42
+2324,Logistic Regression,1,1,0.5121627389042713,42
+2721,Logistic Regression,1,1,0.5080476516182596,42
+1626,Logistic Regression,0,1,0.5170446711950692,42
+2402,Logistic Regression,0,1,0.5117338831177152,42
+15,Logistic Regression,1,1,0.5141924686696948,42
+806,Logistic Regression,0,0,0.3631135650387887,42
+2556,Logistic Regression,0,0,0.40499197827542716,42
+818,Logistic Regression,0,1,0.5379757874792822,42
+1948,Logistic Regression,0,1,0.5232364414340698,42
+325,Logistic Regression,0,1,0.5167371050628311,42
+608,Logistic Regression,0,1,0.6813405884024145,42
+689,Logistic Regression,1,1,0.5780889562283975,42
+1764,Logistic Regression,1,0,0.4653457360293991,42
+2864,Logistic Regression,0,1,0.5119442939365745,42
+1831,Logistic Regression,0,0,0.46808127101963065,42
+2358,Logistic Regression,0,1,0.7059125447814105,42
+452,Logistic Regression,1,1,0.5689867990272871,42
+2946,Logistic Regression,0,1,0.5268338066049673,42
+525,Logistic Regression,0,1,0.5167762819228858,42
+2468,Logistic Regression,1,1,0.7328687752142403,42
+329,Logistic Regression,0,0,0.4811556038905035,42
+1006,Logistic Regression,1,1,0.5837573407164286,42
+2023,Logistic Regression,1,0,0.46869111838777494,42
+2388,Logistic Regression,0,1,0.549471628727406,42
+1662,Logistic Regression,1,0,0.45788133007191456,42
+424,Logistic Regression,1,1,0.6940245247063104,42
+2904,Logistic Regression,1,0,0.4597209825681201,42
+44,Logistic Regression,0,0,0.4718342902772454,42
+2532,Logistic Regression,1,0,0.49320736978353563,42
+37,Logistic Regression,1,0,0.4791748708418337,42
+1502,Logistic Regression,0,1,0.5106941490522013,42
+682,Logistic Regression,1,0,0.4723772963981679,42
+1943,Logistic Regression,1,0,0.4703265679289094,42
+2875,Logistic Regression,1,1,0.5015769140640685,42
+1828,Logistic Regression,1,1,0.5091643643242381,42
+1634,Logistic Regression,0,0,0.4991999011397128,42
+1751,Logistic Regression,0,0,0.4494951003271885,42
+941,Logistic Regression,0,0,0.4754751686562081,42
+2579,Logistic Regression,0,0,0.49398401717066026,42
+2678,Logistic Regression,1,0,0.47304023801001477,42
+2375,Logistic Regression,0,1,0.5369038997406059,42
+395,Logistic Regression,1,1,0.779249004691173,42
+2347,Logistic Regression,0,0,0.491347662069022,42
+2451,Logistic Regression,1,0,0.3333526116301823,42
+2152,Logistic Regression,0,1,0.6006702300016158,42
+2450,Logistic Regression,1,1,0.5895086866205478,42
+2658,Logistic Regression,0,0,0.42418332839837414,42
+2785,Logistic Regression,1,0,0.47017955037274334,42
+394,Logistic Regression,0,1,0.6466267874795244,42
+2542,Logistic Regression,1,0,0.49715254664507985,42
+2150,Logistic Regression,1,1,0.5253004346663059,42
+222,Logistic Regression,0,0,0.4577732470579555,42
+976,Logistic Regression,0,1,0.5508270897206188,42
+1700,Logistic Regression,0,0,0.4569100978425144,42
+2625,Logistic Regression,1,0,0.341536802422956,42
+1757,Logistic Regression,1,0,0.47859254831729614,42
+1490,Logistic Regression,0,1,0.5058021076328862,42
+2342,Logistic Regression,0,1,0.5111854869420105,42
+1884,Logistic Regression,1,0,0.4960970313238938,42
+826,Logistic Regression,1,0,0.4771296362034851,42
+308,Logistic Regression,0,0,0.3989357936404833,42
+232,Logistic Regression,1,0,0.4373618153721509,42
+2821,Logistic Regression,1,1,0.5465025276807508,42
+1062,Logistic Regression,0,0,0.4636352527928399,42
+1541,Logistic Regression,0,1,0.5809824906166337,42
+1711,Logistic Regression,1,1,0.5079261984339997,42
+2188,Logistic Regression,0,1,0.6135385257406814,42
+2840,Logistic Regression,1,0,0.4567063099429549,42
+2953,Logistic Regression,0,1,0.5110429729455356,42
+802,Logistic Regression,0,0,0.47882934376525776,42
+2843,Logistic Regression,0,0,0.43666715470429324,42
+194,Logistic Regression,0,0,0.4906223775250738,42
+1302,Logistic Regression,1,1,0.5092450837888555,42
+1337,Logistic Regression,0,0,0.49240972673747274,42
+1141,Logistic Regression,0,1,0.5592053585755281,42
+580,Logistic Regression,1,1,0.5249935692531388,42
+583,Logistic Regression,1,0,0.4769487746525188,42
+964,Logistic Regression,0,1,0.5068892021121636,42
+1339,Logistic Regression,1,1,0.5361055269327352,42
+1875,Logistic Regression,1,0,0.48586873196967634,42
+263,Logistic Regression,1,1,0.5348849053317223,42
+422,Logistic Regression,0,1,0.531923520736295,42
+1158,Logistic Regression,1,0,0.4357830248414241,42
+1660,Logistic Regression,1,0,0.48478866630088124,42
+1295,Logistic Regression,0,1,0.605372865218971,42
+1796,Logistic Regression,0,1,0.6348715303757665,42
+2140,Logistic Regression,1,0,0.4900169294661865,42
+834,Logistic Regression,0,1,0.5046353462757707,42
+310,Logistic Regression,0,0,0.48654284222980515,42
+2097,Logistic Regression,0,1,0.5754466985451827,42
+207,Logistic Regression,1,0,0.35633051279462735,42
+2622,Logistic Regression,1,1,0.5485728455266136,42
+1307,Logistic Regression,0,1,0.5597030438968558,42
+1449,Logistic Regression,1,0,0.47784831120189636,42
+2051,Logistic Regression,0,1,0.5577238281706564,42
+425,Logistic Regression,1,0,0.3889402342023485,42
+2726,Logistic Regression,1,0,0.4975847171147253,42
+281,Logistic Regression,1,0,0.4531444786675865,42
+1442,Logistic Regression,0,1,0.5868466408934085,42
+1420,Logistic Regression,1,0,0.3723015820893608,42
+410,Logistic Regression,1,1,0.6059033358323798,42
+2614,Logistic Regression,0,1,0.5345805955628004,42
+2192,Logistic Regression,1,1,0.5022438714198032,42
+2134,Logistic Regression,0,1,0.6046453160045527,42
+2830,Logistic Regression,0,0,0.4450250528162078,42
+1704,Logistic Regression,1,0,0.4151876270404757,42
+70,Logistic Regression,0,0,0.46906863182220704,42
+1170,Logistic Regression,1,1,0.5685521057909709,42
+108,Logistic Regression,1,0,0.458959207239313,42
+1954,Logistic Regression,0,1,0.582130252684284,42
+535,Logistic Regression,0,1,0.512527297307177,42
+819,Logistic Regression,1,1,0.5363695143544234,42
+2458,Logistic Regression,1,0,0.4809908327724811,42
+2069,Logistic Regression,1,0,0.47688056026509246,42
+2229,Logistic Regression,1,0,0.4278365539194835,42
+1938,Logistic Regression,1,1,0.5801459107002268,42
+307,Logistic Regression,0,0,0.42991899364109704,42
+1798,Logistic Regression,0,0,0.41291003129878273,42
+2327,Logistic Regression,0,1,0.5027755953702134,42
+1588,Logistic Regression,0,0,0.49734078230345014,42
+2168,Logistic Regression,0,0,0.4441948048788637,42
+2271,Logistic Regression,0,1,0.5179166833668234,42
+2082,Logistic Regression,1,1,0.7255192274352315,42
+484,Logistic Regression,0,1,0.5538911809369318,42
+389,Logistic Regression,0,1,0.54405693847635,42
+7,Logistic Regression,1,0,0.4626776022178357,42
+2754,Logistic Regression,1,1,0.5248708783760015,42
+1000,Logistic Regression,0,0,0.3583569057796514,42
+405,Logistic Regression,1,0,0.49171438000876977,42
+2753,Logistic Regression,1,1,0.5203279447803635,42
+412,Logistic Regression,0,1,0.5684983248911775,42
+1779,Logistic Regression,0,0,0.3817815538023963,42
+1580,Logistic Regression,0,0,0.4150209341333031,42
+171,Logistic Regression,1,0,0.4598744868851933,42
+209,Logistic Regression,0,1,0.6062638331453022,42
+2538,Logistic Regression,1,1,0.5157638903238647,42
+1412,Logistic Regression,1,1,0.5126754059738671,42
+1235,Logistic Regression,0,1,0.6483091741702529,42
+782,Logistic Regression,0,0,0.45517209227759436,42
+2779,Logistic Regression,0,0,0.4819391340172153,42
+2812,Logistic Regression,0,0,0.4976104107684864,42
+1478,Logistic Regression,0,1,0.6296013672725543,42
+1706,Logistic Regression,0,0,0.36537219425859424,42
+2032,Logistic Regression,1,1,0.5427044576995057,42
+1925,Logistic Regression,1,1,0.5829107657122764,42
+1189,Logistic Regression,0,0,0.4254494340844168,42
+735,Logistic Regression,1,1,0.5297571527099036,42
+200,Logistic Regression,1,0,0.44692210642593455,42
+613,Logistic Regression,1,1,0.5104650716509558,42
+363,Logistic Regression,1,1,0.5216785773154735,42
+1740,Logistic Regression,1,1,0.505699403410017,42
+1753,Logistic Regression,1,0,0.4388621225415782,42
+2757,Logistic Regression,0,0,0.3893229357130273,42
+1918,Logistic Regression,1,1,0.5318848040258896,42
+2457,Logistic Regression,0,0,0.49798595173787374,42
+2213,Logistic Regression,1,1,0.5093952665647494,42
+2526,Logistic Regression,0,0,0.47851493154381153,42
+1327,Logistic Regression,0,1,0.5519339663389716,42
+2490,Logistic Regression,0,0,0.4726233528684653,42
+594,Logistic Regression,1,0,0.49805156343120655,42
+1333,Logistic Regression,1,0,0.49152463556712134,42
+1162,Logistic Regression,1,1,0.5031237671872019,42
+2489,Logistic Regression,1,0,0.3406974589719384,42
+2211,Logistic Regression,1,1,0.5755194831891685,42
+24,Logistic Regression,1,0,0.49194467395036023,42
+1487,Logistic Regression,1,0,0.3907041907901504,42
+77,Logistic Regression,0,1,0.5317423882327588,42
+143,Logistic Regression,1,0,0.44388235196036646,42
+2698,Logistic Regression,1,0,0.47219886656078075,42
+2971,Logistic Regression,1,0,0.45751909404733476,42
+1407,Logistic Regression,1,0,0.4994772269591125,42
+612,Logistic Regression,1,1,0.5938109895245296,42
+2965,Logistic Regression,1,1,0.5168370188009015,42
+199,Logistic Regression,0,1,0.5203279447803635,42
+2778,Logistic Regression,1,0,0.45592757650365634,42
+1452,Logistic Regression,1,1,0.5115902354468892,42
+2448,Logistic Regression,1,1,0.6269137872214222,42
+797,Logistic Regression,1,1,0.532967951180041,42
+2552,Logistic Regression,0,0,0.4599094953030584,42
+1,Logistic Regression,0,0,0.48001453458340937,42
+2232,Logistic Regression,0,1,0.6301168724799915,42
+2302,Logistic Regression,0,1,0.5164220350068399,42
+561,Logistic Regression,1,1,0.5071019299506001,42
+1425,Logistic Regression,1,0,0.45873565686634,42
+1008,Logistic Regression,0,1,0.5382858653720377,42
+473,Logistic Regression,0,0,0.4030346414313979,42
+1056,Logistic Regression,1,0,0.4680458907673691,42
+830,Logistic Regression,0,1,0.5082975716313514,42
+2651,Logistic Regression,1,1,0.5456189303424055,42
+1833,Logistic Regression,1,1,0.5852074779479707,42
+921,Logistic Regression,1,0,0.4623117786954647,42
+2106,Logistic Regression,0,0,0.47888432819499466,42
+632,Logistic Regression,0,0,0.4766444716016195,42
+2048,Logistic Regression,1,0,0.4921115106435729,42
+382,Logistic Regression,1,0,0.4783995108265236,42
+1716,Logistic Regression,1,1,0.5887735591295787,42
+2580,Logistic Regression,1,0,0.4472483437314662,42
+2316,Logistic Regression,1,1,0.7412197661574301,42
+17,Logistic Regression,1,1,0.5330988727783472,42
+2096,Logistic Regression,0,1,0.5442472271694531,42
+2728,Logistic Regression,1,1,0.5772120060212061,42
+236,Logistic Regression,1,0,0.4804638038930167,42
+745,Logistic Regression,1,0,0.4818228041875953,42
+2547,Logistic Regression,0,0,0.4933103759845036,42
+2025,Logistic Regression,0,1,0.5969471284869667,42
+1324,Logistic Regression,0,1,0.5677492649758386,42
+1601,Logistic Regression,1,0,0.413228670351131,42
+341,Logistic Regression,0,1,0.5998995712281544,42
+1917,Logistic Regression,1,0,0.46352822638868924,42
+2572,Logistic Regression,1,0,0.35731594598921235,42
+1539,Logistic Regression,0,0,0.4692646336684251,42
+1089,Logistic Regression,0,1,0.5742891182328779,42
+2160,Logistic Regression,1,0,0.49849427730699714,42
+1647,Logistic Regression,0,0,0.45332001345553896,42
+1791,Logistic Regression,1,1,0.5317404951047875,42
+2680,Logistic Regression,1,0,0.4690559356914543,42
+1054,Logistic Regression,0,0,0.4626431062449648,42
+2923,Logistic Regression,0,0,0.48767336305627335,42
+1168,Logistic Regression,0,1,0.5862645130610238,42
+762,Logistic Regression,1,1,0.5076224625676751,42
+122,Logistic Regression,1,0,0.4511634134186344,42
+2704,Logistic Regression,1,1,0.5484726075444428,42
+660,Logistic Regression,1,0,0.34731984201079796,42
+2161,Logistic Regression,0,0,0.42512530221592226,42
+249,Logistic Regression,0,1,0.5392314403897384,42
+371,Logistic Regression,1,1,0.5300266835687051,42
+1709,Logistic Regression,1,1,0.5012772587911811,42
+1205,Logistic Regression,0,1,0.6844759020281456,42
+625,Logistic Regression,1,1,0.5378273216024797,42
+2774,Logistic Regression,0,0,0.467514361099293,42
+889,Logistic Regression,1,1,0.7364604430519546,42
+1633,Logistic Regression,0,0,0.3513860890061468,42
+624,Logistic Regression,1,0,0.47840480262903406,42
+1679,Logistic Regression,1,1,0.5333844998944913,42
+2791,Logistic Regression,0,0,0.4933103759845036,42
+2081,Logistic Regression,0,1,0.6981070894157141,42
+165,Logistic Regression,1,0,0.4839713800990944,42
+262,Logistic Regression,0,1,0.5199568318876636,42
+1353,Logistic Regression,1,0,0.4734759320311706,42
+2845,Logistic Regression,0,0,0.4748381860137502,42
+1034,Logistic Regression,1,0,0.47336893057583346,42
+2255,Logistic Regression,0,1,0.5082693521140468,42
+1636,Logistic Regression,0,1,0.503430401454409,42
+992,Logistic Regression,0,0,0.446225997626426,42
+1724,Logistic Regression,1,0,0.46702044123357456,42
+242,Logistic Regression,1,1,0.5952438004591994,42
+1523,Logistic Regression,1,0,0.4360880766483109,42
+2328,Logistic Regression,0,1,0.5557499277054797,42
+633,Logistic Regression,1,0,0.39744506318972483,42
+2521,Logistic Regression,1,1,0.5826767546133672,42
+1450,Logistic Regression,0,1,0.525394659392463,42
+306,Logistic Regression,1,1,0.5519140787226514,42
+1794,Logistic Regression,0,1,0.5459287142517965,42
+935,Logistic Regression,1,1,0.6166740274367345,42
+105,Logistic Regression,0,1,0.5101951004336164,42
+1958,Logistic Regression,0,1,0.5385393892883283,42
+1538,Logistic Regression,0,1,0.5084392838887144,42
+2099,Logistic Regression,0,1,0.7096173971847676,42
+2531,Logistic Regression,0,0,0.4640675865912737,42
+2861,Logistic Regression,0,1,0.5151604620121526,42
+958,Logistic Regression,0,1,0.584610739271357,42
+792,Logistic Regression,1,0,0.48040496981130737,42
+2740,Logistic Regression,0,0,0.45677665115725097,42
+2112,Logistic Regression,0,1,0.7156605307161003,42
+2564,Logistic Regression,0,1,0.5228872823114671,42
+1416,Logistic Regression,0,0,0.49592953259430816,42
+1363,Logistic Regression,1,0,0.4830142509303049,42
+2942,Logistic Regression,1,1,0.5174778516461671,42
+312,Logistic Regression,1,0,0.40046884970646357,42
+66,Logistic Regression,0,0,0.3624802259393337,42
+130,Logistic Regression,0,0,0.47308494618249536,42
+2306,Logistic Regression,0,0,0.35426768063271524,42
+2939,Logistic Regression,1,0,0.3459609487976554,42
+1464,Logistic Regression,0,1,0.5101506847794945,42
+273,Logistic Regression,0,0,0.44676406817804104,42
+1110,Logistic Regression,0,1,0.6296159134821494,42
+1933,Logistic Regression,1,0,0.43102699378709075,42
+2169,Logistic Regression,1,1,0.5591148744159318,42
+2205,Logistic Regression,0,1,0.5004999872735424,42
+1803,Logistic Regression,0,1,0.5007154667914899,42
+664,Logistic Regression,1,0,0.3898493910167167,42
+971,Logistic Regression,1,0,0.43576943674419166,42
+1027,Logistic Regression,1,1,0.5156857121502854,42
+2922,Logistic Regression,0,0,0.4213851033447925,42
+724,Logistic Regression,0,0,0.4687771468025874,42
+2154,Logistic Regression,0,0,0.4970502256381384,42
+2344,Logistic Regression,1,1,0.520188826993492,42
+2406,Logistic Regression,0,1,0.5009594226829446,42
+897,Logistic Regression,0,1,0.6072881871122946,42
+1233,Logistic Regression,1,1,0.5456595770765831,42
+1533,Logistic Regression,0,0,0.4517921337699376,42
+1889,Logistic Regression,0,1,0.534980703780498,42
+701,Logistic Regression,0,0,0.4964259315227601,42
+522,Logistic Regression,1,1,0.5508981176639017,42
+2748,Logistic Regression,1,0,0.4356178641903554,42
+300,Logistic Regression,0,0,0.49144246009650466,42
+2494,Logistic Regression,1,0,0.476861146189226,42
+1911,Logistic Regression,1,0,0.4862190690460203,42
+514,Logistic Regression,0,1,0.528367700002805,42
+80,Logistic Regression,1,1,0.5262621911320875,42
+875,Logistic Regression,1,0,0.46303011034234537,42
+21,Logistic Regression,1,1,0.5509703420451161,42
+1743,Logistic Regression,0,0,0.45147263837832,42
+856,Logistic Regression,0,0,0.39877709490135727,42
+1155,Logistic Regression,1,0,0.4470138581786206,42
+2326,Logistic Regression,1,1,0.5237240888470959,42
+675,Logistic Regression,0,0,0.48634905272177403,42
+2665,Logistic Regression,1,0,0.45815965076580634,42
+2689,Logistic Regression,0,1,0.5362277718941012,42
+2661,Logistic Regression,0,1,0.5052362873549355,42
+1443,Logistic Regression,0,1,0.5045480229256114,42
+2641,Logistic Regression,1,1,0.5368726318965277,42
+1861,Logistic Regression,1,1,0.505229574613971,42
+2513,Logistic Regression,1,0,0.46758741921802077,42
+2399,Random Forest Classifier,1,1,0.57625,42
+1860,Random Forest Classifier,1,0,0.4625,42
+2714,Random Forest Classifier,0,1,0.53,42
+2654,Random Forest Classifier,0,1,0.64,42
+2509,Random Forest Classifier,0,0,0.43833333333333335,42
+838,Random Forest Classifier,1,1,0.595,42
+603,Random Forest Classifier,0,0,0.425,42
+1778,Random Forest Classifier,1,0,0.345,42
+2539,Random Forest Classifier,1,1,0.5675,42
+936,Random Forest Classifier,0,1,0.62,42
+2966,Random Forest Classifier,0,1,0.605,42
+957,Random Forest Classifier,1,0,0.4925,42
+2278,Random Forest Classifier,0,1,0.655,42
+1776,Random Forest Classifier,1,1,0.635,42
+2972,Random Forest Classifier,1,0,0.43875,42
+2473,Random Forest Classifier,1,1,0.505,42
+2855,Random Forest Classifier,0,0,0.48,42
+223,Random Forest Classifier,1,0,0.47,42
+1611,Random Forest Classifier,0,0,0.38333333333333336,42
+1349,Random Forest Classifier,1,0,0.34708333333333335,42
+2733,Random Forest Classifier,0,0,0.495,42
+2837,Random Forest Classifier,1,0,0.16,42
+1365,Random Forest Classifier,0,0,0.435,42
+1788,Random Forest Classifier,1,0,0.4825,42
+593,Random Forest Classifier,1,1,0.55,42
+534,Random Forest Classifier,0,1,0.6025,42
+32,Random Forest Classifier,1,1,0.5375,42
+1142,Random Forest Classifier,0,1,0.715,42
+2824,Random Forest Classifier,1,0,0.4375,42
+2575,Random Forest Classifier,0,0,0.455,42
+2003,Random Forest Classifier,1,0,0.484375,42
+1978,Random Forest Classifier,1,0,0.4625,42
+1304,Random Forest Classifier,1,1,0.735,42
+566,Random Forest Classifier,0,1,0.6125,42
+1544,Random Forest Classifier,1,1,0.51,42
+1093,Random Forest Classifier,1,1,0.525,42
+1134,Random Forest Classifier,0,1,0.6675,42
+1975,Random Forest Classifier,1,0,0.43583333333333335,42
+2409,Random Forest Classifier,0,1,0.6295833333333333,42
+2241,Random Forest Classifier,1,1,0.51,42
+45,Random Forest Classifier,0,0,0.445,42
+1326,Random Forest Classifier,1,0,0.4025,42
+1404,Random Forest Classifier,1,0,0.3875,42
+2770,Random Forest Classifier,0,1,0.6,42
+1245,Random Forest Classifier,0,0,0.49,42
+2093,Random Forest Classifier,0,1,0.5975,42
+2600,Random Forest Classifier,1,1,0.5125,42
+1795,Random Forest Classifier,1,1,0.5725,42
+1572,Random Forest Classifier,1,0,0.4575,42
+2309,Random Forest Classifier,0,0,0.24,42
+1996,Random Forest Classifier,0,0,0.465,42
+2640,Random Forest Classifier,0,0,0.455,42
+2506,Random Forest Classifier,0,0,0.49,42
+1932,Random Forest Classifier,1,0,0.41125,42
+1397,Random Forest Classifier,1,1,0.5786666666666667,42
+652,Random Forest Classifier,1,1,0.59625,42
+1959,Random Forest Classifier,0,0,0.4625,42
+2218,Random Forest Classifier,0,1,0.6875,42
+974,Random Forest Classifier,0,0,0.46,42
+1144,Random Forest Classifier,0,0,0.4927083333333333,42
+1431,Random Forest Classifier,1,0,0.45,42
+2331,Random Forest Classifier,1,1,0.5875,42
+29,Random Forest Classifier,0,1,0.6075,42
+2173,Random Forest Classifier,0,1,0.575,42
+2277,Random Forest Classifier,1,0,0.4475,42
+540,Random Forest Classifier,1,1,0.58,42
+2179,Random Forest Classifier,0,0,0.425,42
+894,Random Forest Classifier,1,0,0.49,42
+2370,Random Forest Classifier,0,1,0.545,42
+2950,Random Forest Classifier,1,1,0.5175,42
+515,Random Forest Classifier,1,0,0.4725,42
+1665,Random Forest Classifier,0,0,0.4475,42
+245,Random Forest Classifier,0,0,0.3145833333333334,42
+576,Random Forest Classifier,1,1,0.5775,42
+2896,Random Forest Classifier,1,0,0.4225,42
+1745,Random Forest Classifier,1,0,0.3675,42
+2110,Random Forest Classifier,1,1,0.5325,42
+2613,Random Forest Classifier,0,0,0.4,42
+186,Random Forest Classifier,0,1,0.51,42
+1019,Random Forest Classifier,1,0,0.43,42
+2771,Random Forest Classifier,0,1,0.5525,42
+2281,Random Forest Classifier,1,1,0.5075,42
+388,Random Forest Classifier,0,1,0.625,42
+2166,Random Forest Classifier,1,0,0.3,42
+2798,Random Forest Classifier,1,1,0.52,42
+2441,Random Forest Classifier,0,1,0.6,42
+1890,Random Forest Classifier,0,0,0.4925,42
+2237,Random Forest Classifier,0,1,0.5325,42
+1133,Random Forest Classifier,1,0,0.4741666666666666,42
+672,Random Forest Classifier,1,0,0.1825,42
+1362,Random Forest Classifier,0,1,0.525,42
+426,Random Forest Classifier,1,1,0.695,42
+1286,Random Forest Classifier,0,1,0.55125,42
+1739,Random Forest Classifier,0,0,0.39,42
+910,Random Forest Classifier,1,1,0.7475,42
+2512,Random Forest Classifier,1,1,0.7545833333333333,42
+74,Random Forest Classifier,1,0,0.4766666666666666,42
+176,Random Forest Classifier,1,1,0.685,42
+1121,Random Forest Classifier,0,1,0.7575,42
+326,Random Forest Classifier,1,1,0.565,42
+824,Random Forest Classifier,0,1,0.5275,42
+2832,Random Forest Classifier,1,1,0.53,42
+79,Random Forest Classifier,1,1,0.565,42
+1645,Random Forest Classifier,0,1,0.56,42
+2536,Random Forest Classifier,0,1,0.6875,42
+1335,Random Forest Classifier,1,1,0.61625,42
+2135,Random Forest Classifier,1,1,0.5875,42
+1561,Random Forest Classifier,1,1,0.6075,42
+469,Random Forest Classifier,1,0,0.485,42
+1876,Random Forest Classifier,1,1,0.6025,42
+716,Random Forest Classifier,1,0,0.40833333333333327,42
+2652,Random Forest Classifier,1,1,0.5675,42
+2052,Random Forest Classifier,1,0,0.44,42
+2913,Random Forest Classifier,0,0,0.26,42
+811,Random Forest Classifier,1,1,0.59375,42
+1967,Random Forest Classifier,1,0,0.3208333333333333,42
+2833,Random Forest Classifier,0,1,0.58,42
+1965,Random Forest Classifier,0,1,0.6,42
+775,Random Forest Classifier,1,1,0.6936250000000002,42
+1571,Random Forest Classifier,0,0,0.395,42
+1742,Random Forest Classifier,1,1,0.51625,42
+2121,Random Forest Classifier,1,1,0.675,42
+2008,Random Forest Classifier,1,1,0.55,42
+1824,Random Forest Classifier,0,1,0.5525,42
+2502,Random Forest Classifier,1,0,0.2625,42
+1376,Random Forest Classifier,1,0,0.405,42
+84,Random Forest Classifier,1,1,0.525,42
+413,Random Forest Classifier,1,1,0.6775,42
+1007,Random Forest Classifier,1,0,0.4025,42
+1342,Random Forest Classifier,1,1,0.61,42
+2020,Random Forest Classifier,1,1,0.53375,42
+399,Random Forest Classifier,1,1,0.73,42
+1968,Random Forest Classifier,0,0,0.4925,42
+497,Random Forest Classifier,0,1,0.6822916666666667,42
+441,Random Forest Classifier,0,1,0.68,42
+2884,Random Forest Classifier,1,1,0.5375,42
+2911,Random Forest Classifier,0,1,0.5825,42
+1485,Random Forest Classifier,1,0,0.475,42
+2898,Random Forest Classifier,1,0,0.3725,42
+1763,Random Forest Classifier,1,0,0.43,42
+2416,Random Forest Classifier,0,1,0.6647916666666667,42
+1693,Random Forest Classifier,0,1,0.5375,42
+182,Random Forest Classifier,0,1,0.5610416666666667,42
+887,Random Forest Classifier,1,1,0.74625,42
+154,Random Forest Classifier,1,1,0.6075,42
+621,Random Forest Classifier,0,1,0.505,42
+1676,Random Forest Classifier,0,0,0.4175,42
+1551,Random Forest Classifier,1,0,0.37,42
+799,Random Forest Classifier,0,1,0.5625,42
+1518,Random Forest Classifier,1,0,0.385,42
+1306,Random Forest Classifier,1,1,0.75,42
+2858,Random Forest Classifier,1,1,0.57,42
+2092,Random Forest Classifier,0,0,0.44,42
+2455,Random Forest Classifier,1,1,0.5375,42
+2742,Random Forest Classifier,1,0,0.3175,42
+1165,Random Forest Classifier,1,1,0.5175,42
+2787,Random Forest Classifier,0,1,0.6625,42
+2434,Random Forest Classifier,0,0,0.480625,42
+2319,Random Forest Classifier,1,0,0.41,42
+1103,Random Forest Classifier,0,1,0.7225,42
+2976,Random Forest Classifier,1,1,0.56,42
+1583,Random Forest Classifier,1,1,0.7041666666666666,42
+2991,Random Forest Classifier,0,1,0.5175,42
+2676,Random Forest Classifier,1,1,0.5675,42
+159,Random Forest Classifier,1,1,0.6925,42
+2717,Random Forest Classifier,0,1,0.6225,42
+953,Random Forest Classifier,0,1,0.625,42
+1151,Random Forest Classifier,1,0,0.4425,42
+2313,Random Forest Classifier,0,1,0.6025,42
+2852,Random Forest Classifier,1,1,0.5225,42
+421,Random Forest Classifier,0,1,0.6925,42
+53,Random Forest Classifier,1,0,0.46,42
+2628,Random Forest Classifier,1,1,0.54,42
+1145,Random Forest Classifier,1,0,0.22,42
+2642,Random Forest Classifier,1,1,0.6733333333333333,42
+440,Random Forest Classifier,0,1,0.7875,42
+464,Random Forest Classifier,0,0,0.44,42
+2825,Random Forest Classifier,0,1,0.55,42
+1169,Random Forest Classifier,1,0,0.17,42
+2745,Random Forest Classifier,0,1,0.5875,42
+808,Random Forest Classifier,0,0,0.48375,42
+1807,Random Forest Classifier,1,1,0.5275,42
+1956,Random Forest Classifier,0,0,0.4725,42
+895,Random Forest Classifier,1,1,0.5925,42
+1858,Random Forest Classifier,0,1,0.5825,42
+2786,Random Forest Classifier,1,1,0.6275,42
+495,Random Forest Classifier,0,1,0.535,42
+1196,Random Forest Classifier,1,1,0.7,42
+431,Random Forest Classifier,0,1,0.5575,42
+1130,Random Forest Classifier,1,0,0.345,42
+1870,Random Forest Classifier,1,0,0.415,42
+1331,Random Forest Classifier,0,0,0.47,42
+947,Random Forest Classifier,0,1,0.685,42
+2040,Random Forest Classifier,1,0,0.48,42
+832,Random Forest Classifier,1,1,0.66,42
+1641,Random Forest Classifier,0,0,0.4325,42
+1322,Random Forest Classifier,0,0,0.2925,42
+1780,Random Forest Classifier,0,1,0.545,42
+727,Random Forest Classifier,1,0,0.3875,42
+630,Random Forest Classifier,0,0,0.4275,42
+2797,Random Forest Classifier,0,1,0.555,42
+679,Random Forest Classifier,0,0,0.49,42
+1969,Random Forest Classifier,1,0,0.45,42
+1832,Random Forest Classifier,0,1,0.525,42
+444,Random Forest Classifier,0,0,0.49,42
+234,Random Forest Classifier,1,1,0.62,42
+2644,Random Forest Classifier,1,1,0.5225,42
+1505,Random Forest Classifier,1,0,0.4975,42
+2360,Random Forest Classifier,0,1,0.5275,42
+1733,Random Forest Classifier,1,1,0.7325,42
+2236,Random Forest Classifier,1,0,0.4775,42
+1602,Random Forest Classifier,0,0,0.37375,42
+1132,Random Forest Classifier,1,1,0.50375,42
+2083,Random Forest Classifier,1,1,0.528125,42
+2915,Random Forest Classifier,0,0,0.48541666666666666,42
+2185,Random Forest Classifier,1,0,0.4,42
+1552,Random Forest Classifier,1,1,0.575,42
+9,Random Forest Classifier,1,0,0.4,42
+2088,Random Forest Classifier,0,0,0.445,42
+2394,Random Forest Classifier,1,0,0.465,42
+1913,Random Forest Classifier,1,1,0.62,42
+2560,Random Forest Classifier,0,1,0.5475,42
+2298,Random Forest Classifier,0,0,0.4925,42
+1415,Random Forest Classifier,0,0,0.4475,42
+1600,Random Forest Classifier,0,0,0.2,42
+2948,Random Forest Classifier,1,1,0.56,42
+1018,Random Forest Classifier,1,0,0.265,42
+1037,Random Forest Classifier,0,0,0.2925,42
+2578,Random Forest Classifier,0,1,0.505,42
+1522,Random Forest Classifier,0,0,0.495,42
+1323,Random Forest Classifier,0,0,0.3,42
+2839,Random Forest Classifier,0,1,0.58,42
+798,Random Forest Classifier,0,0,0.3383333333333334,42
+2013,Random Forest Classifier,0,1,0.565,42
+2831,Random Forest Classifier,0,1,0.63,42
+2562,Random Forest Classifier,0,0,0.36,42
+2518,Random Forest Classifier,1,0,0.435,42
+1379,Random Forest Classifier,0,0,0.49,42
+2936,Random Forest Classifier,0,1,0.6675,42
+2299,Random Forest Classifier,1,0,0.5,42
+2462,Random Forest Classifier,1,0,0.43,42
+2849,Random Forest Classifier,0,1,0.5075,42
+1378,Random Forest Classifier,1,0,0.455,42
+551,Random Forest Classifier,0,0,0.4425,42
+827,Random Forest Classifier,0,1,0.544375,42
+1411,Random Forest Classifier,0,1,0.545,42
+2629,Random Forest Classifier,0,1,0.5525,42
+1035,Random Forest Classifier,0,0,0.45333333333333337,42
+2934,Random Forest Classifier,1,0,0.29,42
+1025,Random Forest Classifier,0,0,0.4275,42
+1330,Random Forest Classifier,0,0,0.4725,42
+1336,Random Forest Classifier,0,1,0.5075,42
+331,Random Forest Classifier,1,0,0.495625,42
+729,Random Forest Classifier,1,1,0.61,42
+2738,Random Forest Classifier,1,1,0.6275,42
+1036,Random Forest Classifier,0,1,0.6725,42
+57,Random Forest Classifier,0,1,0.525,42
+766,Random Forest Classifier,1,1,0.5125,42
+1760,Random Forest Classifier,0,1,0.575,42
+714,Random Forest Classifier,0,1,0.6425,42
+2666,Random Forest Classifier,1,0,0.48,42
+588,Random Forest Classifier,0,1,0.7025,42
+2478,Random Forest Classifier,0,1,0.5520833333333333,42
+2225,Random Forest Classifier,1,1,0.5075,42
+1409,Random Forest Classifier,0,1,0.7025,42
+829,Random Forest Classifier,0,1,0.515,42
+2486,Random Forest Classifier,0,0,0.45,42
+905,Random Forest Classifier,0,1,0.61,42
+27,Random Forest Classifier,0,1,0.56,42
+786,Random Forest Classifier,0,1,0.505,42
+2599,Random Forest Classifier,0,0,0.363125,42
+2569,Random Forest Classifier,1,1,0.6225,42
+1100,Random Forest Classifier,1,0,0.4075,42
+14,Random Forest Classifier,0,0,0.405,42
+288,Random Forest Classifier,0,0,0.43625,42
+2986,Random Forest Classifier,0,1,0.675,42
+1936,Random Forest Classifier,1,0,0.495,42
+39,Random Forest Classifier,1,1,0.54,42
+2993,Random Forest Classifier,1,1,0.735,42
+2359,Random Forest Classifier,0,1,0.62,42
+722,Random Forest Classifier,0,1,0.59,42
+1360,Random Forest Classifier,1,0,0.415,42
+365,Random Forest Classifier,1,1,0.66,42
+1255,Random Forest Classifier,0,0,0.415,42
+161,Random Forest Classifier,1,1,0.575,42
+1543,Random Forest Classifier,1,0,0.450625,42
+2324,Random Forest Classifier,1,0,0.385,42
+2721,Random Forest Classifier,1,0,0.29350000000000004,42
+1626,Random Forest Classifier,0,1,0.5975,42
+2402,Random Forest Classifier,0,1,0.5575,42
+15,Random Forest Classifier,1,1,0.63,42
+806,Random Forest Classifier,0,0,0.32,42
+2556,Random Forest Classifier,0,0,0.42,42
+818,Random Forest Classifier,0,0,0.49083333333333334,42
+1948,Random Forest Classifier,0,1,0.5475,42
+325,Random Forest Classifier,0,0,0.43875,42
+608,Random Forest Classifier,0,1,0.77875,42
+689,Random Forest Classifier,1,1,0.51,42
+1764,Random Forest Classifier,1,1,0.51,42
+2864,Random Forest Classifier,0,0,0.41,42
+1831,Random Forest Classifier,0,0,0.4325,42
+2358,Random Forest Classifier,0,1,0.64,42
+452,Random Forest Classifier,1,1,0.595,42
+2946,Random Forest Classifier,0,1,0.55625,42
+525,Random Forest Classifier,0,1,0.625,42
+2468,Random Forest Classifier,1,1,0.6925,42
+329,Random Forest Classifier,0,1,0.7075,42
+1006,Random Forest Classifier,1,0,0.44,42
+2023,Random Forest Classifier,1,1,0.54,42
+2388,Random Forest Classifier,0,1,0.8025,42
+1662,Random Forest Classifier,1,0,0.37,42
+424,Random Forest Classifier,1,1,0.63,42
+2904,Random Forest Classifier,1,1,0.61,42
+44,Random Forest Classifier,0,1,0.5075,42
+2532,Random Forest Classifier,1,1,0.53875,42
+37,Random Forest Classifier,1,0,0.4775,42
+1502,Random Forest Classifier,0,0,0.496875,42
+682,Random Forest Classifier,1,0,0.125,42
+1943,Random Forest Classifier,1,1,0.545,42
+2875,Random Forest Classifier,1,1,0.5808333333333333,42
+1828,Random Forest Classifier,1,0,0.49,42
+1634,Random Forest Classifier,0,0,0.4025,42
+1751,Random Forest Classifier,0,1,0.5525,42
+941,Random Forest Classifier,0,0,0.47,42
+2579,Random Forest Classifier,0,0,0.4975,42
+2678,Random Forest Classifier,1,0,0.2925,42
+2375,Random Forest Classifier,0,1,0.579375,42
+395,Random Forest Classifier,1,1,0.814375,42
+2347,Random Forest Classifier,0,0,0.4725,42
+2451,Random Forest Classifier,1,0,0.3725,42
+2152,Random Forest Classifier,0,1,0.71,42
+2450,Random Forest Classifier,1,1,0.5333333333333333,42
+2658,Random Forest Classifier,0,0,0.3625,42
+2785,Random Forest Classifier,1,1,0.555,42
+394,Random Forest Classifier,0,1,0.57,42
+2542,Random Forest Classifier,1,1,0.55,42
+2150,Random Forest Classifier,1,1,0.7,42
+222,Random Forest Classifier,0,0,0.4575,42
+976,Random Forest Classifier,0,1,0.5925,42
+1700,Random Forest Classifier,0,1,0.5325,42
+2625,Random Forest Classifier,1,0,0.43,42
+1757,Random Forest Classifier,1,0,0.385,42
+1490,Random Forest Classifier,0,0,0.3127083333333333,42
+2342,Random Forest Classifier,0,0,0.4725,42
+1884,Random Forest Classifier,1,1,0.6475,42
+826,Random Forest Classifier,1,0,0.3466666666666666,42
+308,Random Forest Classifier,0,0,0.38875,42
+232,Random Forest Classifier,1,0,0.475,42
+2821,Random Forest Classifier,1,1,0.60875,42
+1062,Random Forest Classifier,0,1,0.7225,42
+1541,Random Forest Classifier,0,1,0.79,42
+1711,Random Forest Classifier,1,0,0.415,42
+2188,Random Forest Classifier,0,1,0.6125,42
+2840,Random Forest Classifier,1,0,0.375,42
+2953,Random Forest Classifier,0,0,0.443125,42
+802,Random Forest Classifier,0,1,0.5575,42
+2843,Random Forest Classifier,0,0,0.3775,42
+194,Random Forest Classifier,0,1,0.55,42
+1302,Random Forest Classifier,1,1,0.6325,42
+1337,Random Forest Classifier,0,0,0.3325,42
+1141,Random Forest Classifier,0,1,0.6146250000000001,42
+580,Random Forest Classifier,1,1,0.58,42
+583,Random Forest Classifier,1,0,0.42,42
+964,Random Forest Classifier,0,0,0.4325,42
+1339,Random Forest Classifier,1,0,0.315,42
+1875,Random Forest Classifier,1,1,0.595,42
+263,Random Forest Classifier,1,1,0.6,42
+422,Random Forest Classifier,0,0,0.4475,42
+1158,Random Forest Classifier,1,0,0.385,42
+1660,Random Forest Classifier,1,1,0.52,42
+1295,Random Forest Classifier,0,1,0.5775,42
+1796,Random Forest Classifier,0,1,0.5875,42
+2140,Random Forest Classifier,1,0,0.4,42
+834,Random Forest Classifier,0,0,0.3675,42
+310,Random Forest Classifier,0,1,0.53,42
+2097,Random Forest Classifier,0,0,0.475,42
+207,Random Forest Classifier,1,0,0.4225,42
+2622,Random Forest Classifier,1,1,0.6275,42
+1307,Random Forest Classifier,0,1,0.61375,42
+1449,Random Forest Classifier,1,0,0.36208333333333337,42
+2051,Random Forest Classifier,0,1,0.6004166666666666,42
+425,Random Forest Classifier,1,0,0.495,42
+2726,Random Forest Classifier,1,0,0.4575,42
+281,Random Forest Classifier,1,0,0.4825,42
+1442,Random Forest Classifier,0,1,0.50375,42
+1420,Random Forest Classifier,1,0,0.4675,42
+410,Random Forest Classifier,1,1,0.7025,42
+2614,Random Forest Classifier,0,0,0.31645833333333334,42
+2192,Random Forest Classifier,1,0,0.3875,42
+2134,Random Forest Classifier,0,1,0.695,42
+2830,Random Forest Classifier,0,0,0.31866666666666665,42
+1704,Random Forest Classifier,1,0,0.485,42
+70,Random Forest Classifier,0,1,0.5425,42
+1170,Random Forest Classifier,1,0,0.4425,42
+108,Random Forest Classifier,1,1,0.5225,42
+1954,Random Forest Classifier,0,1,0.6475,42
+535,Random Forest Classifier,0,0,0.40895833333333337,42
+819,Random Forest Classifier,1,0,0.41,42
+2458,Random Forest Classifier,1,1,0.56,42
+2069,Random Forest Classifier,1,0,0.4880833333333333,42
+2229,Random Forest Classifier,1,0,0.29,42
+1938,Random Forest Classifier,1,1,0.5575,42
+307,Random Forest Classifier,0,0,0.3175,42
+1798,Random Forest Classifier,0,0,0.475,42
+2327,Random Forest Classifier,0,0,0.3925,42
+1588,Random Forest Classifier,0,0,0.4433333333333333,42
+2168,Random Forest Classifier,0,0,0.4175,42
+2271,Random Forest Classifier,0,0,0.275,42
+2082,Random Forest Classifier,1,1,0.685,42
+484,Random Forest Classifier,0,1,0.64,42
+389,Random Forest Classifier,0,1,0.6325,42
+7,Random Forest Classifier,1,1,0.555,42
+2754,Random Forest Classifier,1,1,0.6325,42
+1000,Random Forest Classifier,0,0,0.3275,42
+405,Random Forest Classifier,1,1,0.5175,42
+2753,Random Forest Classifier,1,0,0.43916666666666665,42
+412,Random Forest Classifier,0,0,0.5,42
+1779,Random Forest Classifier,0,1,0.5475,42
+1580,Random Forest Classifier,0,1,0.54,42
+171,Random Forest Classifier,1,0,0.4475,42
+209,Random Forest Classifier,0,1,0.7141666666666666,42
+2538,Random Forest Classifier,1,0,0.4825,42
+1412,Random Forest Classifier,1,1,0.505,42
+1235,Random Forest Classifier,0,1,0.655,42
+782,Random Forest Classifier,0,0,0.485,42
+2779,Random Forest Classifier,0,1,0.535,42
+2812,Random Forest Classifier,0,1,0.505,42
+1478,Random Forest Classifier,0,1,0.605625,42
+1706,Random Forest Classifier,0,1,0.5525,42
+2032,Random Forest Classifier,1,1,0.5125,42
+1925,Random Forest Classifier,1,0,0.4875,42
+1189,Random Forest Classifier,0,0,0.4575,42
+735,Random Forest Classifier,1,0,0.46458333333333335,42
+200,Random Forest Classifier,1,0,0.4675,42
+613,Random Forest Classifier,1,0,0.5,42
+363,Random Forest Classifier,1,1,0.6,42
+1740,Random Forest Classifier,1,1,0.5825,42
+1753,Random Forest Classifier,1,1,0.575,42
+2757,Random Forest Classifier,0,0,0.41104166666666664,42
+1918,Random Forest Classifier,1,0,0.35,42
+2457,Random Forest Classifier,0,1,0.575,42
+2213,Random Forest Classifier,1,0,0.2825,42
+2526,Random Forest Classifier,0,1,0.5175,42
+1327,Random Forest Classifier,0,1,0.5475,42
+2490,Random Forest Classifier,0,0,0.44,42
+594,Random Forest Classifier,1,1,0.555,42
+1333,Random Forest Classifier,1,1,0.6,42
+1162,Random Forest Classifier,1,0,0.365,42
+2489,Random Forest Classifier,1,0,0.2725,42
+2211,Random Forest Classifier,1,0,0.4725,42
+24,Random Forest Classifier,1,1,0.56,42
+1487,Random Forest Classifier,1,1,0.61,42
+77,Random Forest Classifier,0,0,0.3775,42
+143,Random Forest Classifier,1,1,0.5525,42
+2698,Random Forest Classifier,1,0,0.4425,42
+2971,Random Forest Classifier,1,1,0.5645833333333333,42
+1407,Random Forest Classifier,1,0,0.485,42
+612,Random Forest Classifier,1,1,0.68,42
+2965,Random Forest Classifier,1,1,0.514875,42
+199,Random Forest Classifier,0,0,0.4325,42
+2778,Random Forest Classifier,1,0,0.44916666666666666,42
+1452,Random Forest Classifier,1,0,0.34,42
+2448,Random Forest Classifier,1,1,0.6104166666666667,42
+797,Random Forest Classifier,1,0,0.465,42
+2552,Random Forest Classifier,0,1,0.74,42
+1,Random Forest Classifier,0,0,0.465,42
+2232,Random Forest Classifier,0,1,0.5325,42
+2302,Random Forest Classifier,0,0,0.4375,42
+561,Random Forest Classifier,1,0,0.4375,42
+1425,Random Forest Classifier,1,1,0.60625,42
+1008,Random Forest Classifier,0,1,0.5675,42
+473,Random Forest Classifier,0,0,0.455,42
+1056,Random Forest Classifier,1,0,0.485,42
+830,Random Forest Classifier,0,1,0.5575,42
+2651,Random Forest Classifier,1,1,0.53,42
+1833,Random Forest Classifier,1,0,0.48,42
+921,Random Forest Classifier,1,1,0.565,42
+2106,Random Forest Classifier,0,1,0.5275000000000001,42
+632,Random Forest Classifier,0,0,0.3575,42
+2048,Random Forest Classifier,1,1,0.6425,42
+382,Random Forest Classifier,1,0,0.2575,42
+1716,Random Forest Classifier,1,1,0.5983333333333333,42
+2580,Random Forest Classifier,1,0,0.492625,42
+2316,Random Forest Classifier,1,1,0.6175,42
+17,Random Forest Classifier,1,0,0.42,42
+2096,Random Forest Classifier,0,0,0.48,42
+2728,Random Forest Classifier,1,1,0.63875,42
+236,Random Forest Classifier,1,1,0.5175,42
+745,Random Forest Classifier,1,0,0.415,42
+2547,Random Forest Classifier,0,0,0.4425,42
+2025,Random Forest Classifier,0,1,0.5725,42
+1324,Random Forest Classifier,0,1,0.5487083333333332,42
+1601,Random Forest Classifier,1,0,0.31125,42
+341,Random Forest Classifier,0,1,0.5717500000000001,42
+1917,Random Forest Classifier,1,1,0.5475,42
+2572,Random Forest Classifier,1,0,0.4375,42
+1539,Random Forest Classifier,0,0,0.41212499999999996,42
+1089,Random Forest Classifier,0,0,0.491875,42
+2160,Random Forest Classifier,1,1,0.5475,42
+1647,Random Forest Classifier,0,1,0.645,42
+1791,Random Forest Classifier,1,1,0.6175,42
+2680,Random Forest Classifier,1,0,0.4975,42
+1054,Random Forest Classifier,0,0,0.4625,42
+2923,Random Forest Classifier,0,1,0.575,42
+1168,Random Forest Classifier,0,1,0.625,42
+762,Random Forest Classifier,1,0,0.434,42
+122,Random Forest Classifier,1,1,0.6575,42
+2704,Random Forest Classifier,1,1,0.575,42
+660,Random Forest Classifier,1,0,0.3975,42
+2161,Random Forest Classifier,0,0,0.46375,42
+249,Random Forest Classifier,0,1,0.5823333333333334,42
+371,Random Forest Classifier,1,0,0.49020833333333336,42
+1709,Random Forest Classifier,1,1,0.5127083333333333,42
+1205,Random Forest Classifier,0,1,0.7075,42
+625,Random Forest Classifier,1,1,0.78125,42
+2774,Random Forest Classifier,0,0,0.36,42
+889,Random Forest Classifier,1,1,0.6325,42
+1633,Random Forest Classifier,0,0,0.345,42
+624,Random Forest Classifier,1,1,0.5025,42
+1679,Random Forest Classifier,1,0,0.4175,42
+2791,Random Forest Classifier,0,0,0.4425,42
+2081,Random Forest Classifier,0,1,0.5375,42
+165,Random Forest Classifier,1,1,0.6475,42
+262,Random Forest Classifier,0,1,0.525,42
+1353,Random Forest Classifier,1,1,0.525,42
+2845,Random Forest Classifier,0,0,0.3995,42
+1034,Random Forest Classifier,1,1,0.525,42
+2255,Random Forest Classifier,0,0,0.47,42
+1636,Random Forest Classifier,0,0,0.4627083333333333,42
+992,Random Forest Classifier,0,0,0.5,42
+1724,Random Forest Classifier,1,1,0.5225,42
+242,Random Forest Classifier,1,1,0.725,42
+1523,Random Forest Classifier,1,1,0.5775,42
+2328,Random Forest Classifier,0,0,0.365,42
+633,Random Forest Classifier,1,0,0.4675,42
+2521,Random Forest Classifier,1,1,0.5866666666666667,42
+1450,Random Forest Classifier,0,0,0.33083333333333337,42
+306,Random Forest Classifier,1,1,0.7075,42
+1794,Random Forest Classifier,0,1,0.7525,42
+935,Random Forest Classifier,1,1,0.8325,42
+105,Random Forest Classifier,0,0,0.4725,42
+1958,Random Forest Classifier,0,0,0.45875,42
+1538,Random Forest Classifier,0,1,0.5608333333333333,42
+2099,Random Forest Classifier,0,1,0.55,42
+2531,Random Forest Classifier,0,1,0.53125,42
+2861,Random Forest Classifier,0,0,0.348125,42
+958,Random Forest Classifier,0,1,0.5275,42
+792,Random Forest Classifier,1,1,0.505,42
+2740,Random Forest Classifier,0,0,0.4475,42
+2112,Random Forest Classifier,0,1,0.735,42
+2564,Random Forest Classifier,0,1,0.605,42
+1416,Random Forest Classifier,0,0,0.4225,42
+1363,Random Forest Classifier,1,0,0.3975,42
+2942,Random Forest Classifier,1,0,0.4625,42
+312,Random Forest Classifier,1,0,0.4925,42
+66,Random Forest Classifier,0,0,0.465,42
+130,Random Forest Classifier,0,0,0.4975,42
+2306,Random Forest Classifier,0,0,0.2225,42
+2939,Random Forest Classifier,1,1,0.55125,42
+1464,Random Forest Classifier,0,0,0.4922916666666666,42
+273,Random Forest Classifier,0,0,0.435,42
+1110,Random Forest Classifier,0,0,0.5,42
+1933,Random Forest Classifier,1,0,0.45,42
+2169,Random Forest Classifier,1,1,0.5075,42
+2205,Random Forest Classifier,0,0,0.43,42
+1803,Random Forest Classifier,0,1,0.5525,42
+664,Random Forest Classifier,1,1,0.505,42
+971,Random Forest Classifier,1,0,0.395,42
+1027,Random Forest Classifier,1,0,0.465,42
+2922,Random Forest Classifier,0,1,0.51,42
+724,Random Forest Classifier,0,1,0.785,42
+2154,Random Forest Classifier,0,0,0.3825,42
+2344,Random Forest Classifier,1,1,0.6875,42
+2406,Random Forest Classifier,0,1,0.6775,42
+897,Random Forest Classifier,0,1,0.505,42
+1233,Random Forest Classifier,1,1,0.55,42
+1533,Random Forest Classifier,0,1,0.5275,42
+1889,Random Forest Classifier,0,1,0.58375,42
+701,Random Forest Classifier,0,0,0.42625,42
+522,Random Forest Classifier,1,1,0.6075,42
+2748,Random Forest Classifier,1,0,0.3875,42
+300,Random Forest Classifier,0,1,0.5525,42
+2494,Random Forest Classifier,1,0,0.4,42
+1911,Random Forest Classifier,1,1,0.5725,42
+514,Random Forest Classifier,0,1,0.61,42
+80,Random Forest Classifier,1,0,0.495,42
+875,Random Forest Classifier,1,1,0.8325,42
+21,Random Forest Classifier,1,1,0.605,42
+1743,Random Forest Classifier,0,0,0.3275,42
+856,Random Forest Classifier,0,0,0.295,42
+1155,Random Forest Classifier,1,1,0.58,42
+2326,Random Forest Classifier,1,1,0.5425,42
+675,Random Forest Classifier,0,0,0.36833333333333335,42
+2665,Random Forest Classifier,1,0,0.4975,42
+2689,Random Forest Classifier,0,1,0.6358333333333334,42
+2661,Random Forest Classifier,0,0,0.465,42
+1443,Random Forest Classifier,0,0,0.479375,42
+2641,Random Forest Classifier,1,0,0.4825,42
+1861,Random Forest Classifier,1,0,0.5,42
+2513,Random Forest Classifier,1,0,0.49,42
+2399,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1860,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2714,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2654,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2509,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+838,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+603,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1778,Gradient Boosting Classifier,1,0,0.4519213333093566,42
+2539,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+936,Gradient Boosting Classifier,0,1,0.5265283828182077,42
+2966,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+957,Gradient Boosting Classifier,1,1,0.5265283828182077,42
+2278,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1776,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2972,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2473,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2855,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+223,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1611,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1349,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2733,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2837,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1365,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1788,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+593,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+534,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+32,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1142,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2824,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2575,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2003,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1978,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1304,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+566,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1544,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1093,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1134,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1975,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2409,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2241,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+45,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1326,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1404,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2770,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1245,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2093,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2600,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1795,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1572,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2309,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1996,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2640,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2506,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1932,Gradient Boosting Classifier,1,0,0.48661566759889924,42
+1397,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+652,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1959,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2218,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+974,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1144,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1431,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2331,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+29,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2173,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2277,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+540,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2179,Gradient Boosting Classifier,0,0,0.48661566759889924,42
+894,Gradient Boosting Classifier,1,1,0.5265283828182077,42
+2370,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2950,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+515,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1665,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+245,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+576,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2896,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1745,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2110,Gradient Boosting Classifier,1,1,0.5882864873805267,42
+2613,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+186,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1019,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2771,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2281,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+388,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2166,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2798,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2441,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1890,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2237,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1133,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+672,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1362,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+426,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1286,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1739,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+910,Gradient Boosting Classifier,1,1,0.5265283828182077,42
+2512,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+74,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+176,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1121,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+326,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+824,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2832,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+79,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1645,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2536,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1335,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2135,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1561,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+469,Gradient Boosting Classifier,1,0,0.48661566759889924,42
+1876,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+716,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2652,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2052,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2913,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+811,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1967,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2833,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1965,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+775,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1571,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1742,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2121,Gradient Boosting Classifier,1,1,0.5313985038454275,42
+2008,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1824,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2502,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1376,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+84,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+413,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1007,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1342,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2020,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+399,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1968,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+497,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+441,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2884,Gradient Boosting Classifier,1,0,0.48661566759889924,42
+2911,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1485,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2898,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1763,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2416,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1693,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+182,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+887,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+154,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+621,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1676,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1551,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+799,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1518,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1306,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2858,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2092,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2455,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2742,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1165,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2787,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2434,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2319,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1103,Gradient Boosting Classifier,0,1,0.5684580199203646,42
+2976,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1583,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2991,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2676,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+159,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2717,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+953,Gradient Boosting Classifier,0,1,0.5265283828182077,42
+1151,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2313,Gradient Boosting Classifier,0,0,0.4519213333093566,42
+2852,Gradient Boosting Classifier,1,0,0.48661566759889924,42
+421,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+53,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2628,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1145,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2642,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+440,Gradient Boosting Classifier,0,1,0.6310939079836865,42
+464,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2825,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1169,Gradient Boosting Classifier,1,0,0.4519213333093566,42
+2745,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+808,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1807,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1956,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+895,Gradient Boosting Classifier,1,1,0.5265283828182077,42
+1858,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2786,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+495,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1196,Gradient Boosting Classifier,1,1,0.5882864873805267,42
+431,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1130,Gradient Boosting Classifier,1,0,0.48661566759889924,42
+1870,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1331,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+947,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2040,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+832,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1641,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1322,Gradient Boosting Classifier,0,0,0.48661566759889924,42
+1780,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+727,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+630,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2797,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+679,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1969,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1832,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+444,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+234,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2644,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1505,Gradient Boosting Classifier,1,0,0.4293075400916398,42
+2360,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1733,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2236,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1602,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1132,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2083,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2915,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2185,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1552,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+9,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2088,Gradient Boosting Classifier,0,0,0.4519213333093566,42
+2394,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1913,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2560,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2298,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1415,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1600,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2948,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1018,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1037,Gradient Boosting Classifier,0,0,0.4519213333093566,42
+2578,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1522,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1323,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2839,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+798,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2013,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2831,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2562,Gradient Boosting Classifier,0,0,0.48661566759889924,42
+2518,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1379,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2936,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2299,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2462,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2849,Gradient Boosting Classifier,0,0,0.48661566759889924,42
+1378,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+551,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+827,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1411,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2629,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1035,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2934,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1025,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1330,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1336,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+331,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+729,Gradient Boosting Classifier,1,1,0.579025581333634,42
+2738,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1036,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+57,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+766,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1760,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+714,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2666,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+588,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2478,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2225,Gradient Boosting Classifier,1,0,0.4519213333093566,42
+1409,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+829,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2486,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+905,Gradient Boosting Classifier,0,1,0.5265283828182077,42
+27,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+786,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2599,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2569,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1100,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+14,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+288,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2986,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1936,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+39,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2993,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2359,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+722,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1360,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+365,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1255,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+161,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1543,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2324,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2721,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1626,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2402,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+15,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+806,Gradient Boosting Classifier,0,0,0.48661566759889924,42
+2556,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+818,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1948,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+325,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+608,Gradient Boosting Classifier,0,1,0.5652551481715838,42
+689,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1764,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2864,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1831,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2358,Gradient Boosting Classifier,0,1,0.5684580199203646,42
+452,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2946,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+525,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2468,Gradient Boosting Classifier,1,1,0.5684580199203646,42
+329,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1006,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2023,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2388,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1662,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+424,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2904,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+44,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2532,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+37,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1502,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+682,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1943,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2875,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1828,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1634,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1751,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+941,Gradient Boosting Classifier,0,0,0.46881215906077933,42
+2579,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2678,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2375,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+395,Gradient Boosting Classifier,1,1,0.6310939079836865,42
+2347,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2451,Gradient Boosting Classifier,1,0,0.4519213333093566,42
+2152,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2450,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2658,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2785,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+394,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2542,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2150,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+222,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+976,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1700,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2625,Gradient Boosting Classifier,1,0,0.4519213333093566,42
+1757,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1490,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2342,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1884,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+826,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+308,Gradient Boosting Classifier,0,0,0.48661566759889924,42
+232,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2821,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1062,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1541,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1711,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2188,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2840,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2953,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+802,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2843,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+194,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1302,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1337,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1141,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+580,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+583,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+964,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1339,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1875,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+263,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+422,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1158,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1660,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1295,Gradient Boosting Classifier,0,1,0.5484774214836506,42
+1796,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2140,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+834,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+310,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2097,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+207,Gradient Boosting Classifier,1,0,0.4519213333093566,42
+2622,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1307,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1449,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2051,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+425,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2726,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+281,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1442,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1420,Gradient Boosting Classifier,1,0,0.48661566759889924,42
+410,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2614,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2192,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2134,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2830,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1704,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+70,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1170,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+108,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1954,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+535,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+819,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2458,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2069,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2229,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1938,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+307,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1798,Gradient Boosting Classifier,0,0,0.48661566759889924,42
+2327,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1588,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2168,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2271,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2082,Gradient Boosting Classifier,1,1,0.6012175480805213,42
+484,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+389,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+7,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2754,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1000,Gradient Boosting Classifier,0,0,0.48661566759889924,42
+405,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2753,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+412,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1779,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1580,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+171,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+209,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2538,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1412,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1235,Gradient Boosting Classifier,0,1,0.5882864873805267,42
+782,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2779,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2812,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1478,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1706,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2032,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1925,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1189,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+735,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+200,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+613,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+363,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1740,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1753,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2757,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1918,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2457,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2213,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2526,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1327,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2490,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+594,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1333,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1162,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2489,Gradient Boosting Classifier,1,0,0.4519213333093566,42
+2211,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+24,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1487,Gradient Boosting Classifier,1,0,0.48661566759889924,42
+77,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+143,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2698,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2971,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1407,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+612,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2965,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+199,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2778,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1452,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2448,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+797,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2552,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2232,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2302,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+561,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1425,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1008,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+473,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1056,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+830,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2651,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1833,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+921,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2106,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+632,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2048,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+382,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1716,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2580,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2316,Gradient Boosting Classifier,1,1,0.5684580199203646,42
+17,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2096,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2728,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+236,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+745,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2547,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2025,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1324,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1601,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+341,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1917,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2572,Gradient Boosting Classifier,1,0,0.48661566759889924,42
+1539,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1089,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2160,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1647,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1791,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2680,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1054,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2923,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1168,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+762,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+122,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2704,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+660,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2161,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+249,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+371,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1709,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1205,Gradient Boosting Classifier,0,1,0.5882864873805267,42
+625,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2774,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+889,Gradient Boosting Classifier,1,1,0.6310939079836865,42
+1633,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+624,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1679,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2791,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2081,Gradient Boosting Classifier,0,1,0.5882864873805267,42
+165,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+262,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1353,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2845,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1034,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2255,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1636,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+992,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1724,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+242,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1523,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2328,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+633,Gradient Boosting Classifier,1,0,0.48661566759889924,42
+2521,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1450,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+306,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1794,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+935,Gradient Boosting Classifier,1,1,0.5265283828182077,42
+105,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1958,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1538,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2099,Gradient Boosting Classifier,0,1,0.5882864873805267,42
+2531,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2861,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+958,Gradient Boosting Classifier,0,1,0.5265283828182077,42
+792,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2740,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2112,Gradient Boosting Classifier,0,1,0.5882864873805267,42
+2564,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1416,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1363,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2942,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+312,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+66,Gradient Boosting Classifier,0,0,0.48661566759889924,42
+130,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2306,Gradient Boosting Classifier,0,0,0.4519213333093566,42
+2939,Gradient Boosting Classifier,1,0,0.48661566759889924,42
+1464,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+273,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1110,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1933,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2169,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2205,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1803,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+664,Gradient Boosting Classifier,1,0,0.4519213333093566,42
+971,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1027,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2922,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+724,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2154,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2344,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2406,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+897,Gradient Boosting Classifier,0,1,0.5265283828182077,42
+1233,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1533,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1889,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+701,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+522,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2748,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+300,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2494,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1911,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+514,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+80,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+875,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+21,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1743,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+856,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1155,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2326,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+675,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2665,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2689,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2661,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+1443,Gradient Boosting Classifier,0,1,0.5095528619687167,42
+2641,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+1861,Gradient Boosting Classifier,1,1,0.5095528619687167,42
+2513,Gradient Boosting Classifier,1,1,0.5095528619687167,42
