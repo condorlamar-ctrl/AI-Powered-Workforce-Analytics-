@@ -1,0 +1,73 @@
+group,employee_count,exited_count,lens,exit_rate,sparse_group
+SVG,304,167,Business unit,0.5493421052631579,False
+WBL,294,156,Business unit,0.5306122448979592,False
+MSC,296,157,Business unit,0.5304054054054054,False
+PYZ,299,157,Business unit,0.5250836120401338,False
+EW,302,154,Business unit,0.5099337748344371,False
+NEL,304,154,Business unit,0.506578947368421,False
+TNS,297,150,Business unit,0.5050505050505051,False
+BPC,303,150,Business unit,0.49504950495049505,False
+CCDR,300,145,Business unit,0.48333333333333334,False
+PL,301,143,Business unit,0.4750830564784053,False
+Executive Office,24,19,Department,0.7916666666666666,False
+Admin Offices,80,48,Department,0.6,False
+Software Engineering,115,64,Department,0.5565217391304348,False
+IT/IS,430,224,Department,0.5209302325581395,False
+Production,2020,1014,Department,0.501980198019802,False
+Sales,331,164,Department,0.4954682779456193,False
+Corp Operations,2,2,Division,1.0,True
+Billable Consultants,24,19,Division,0.7916666666666666,False
+Catv,58,33,Division,0.5689655172413793,False
+Project Management - Eng,16,9,Division,0.5625,False
+Finance & Accounting,70,39,Division,0.5571428571428572,False
+Safety,9,5,Division,0.5555555555555556,True
+Sales & Marketing,9,5,Division,0.5555555555555556,True
+Yard (Material Handling),59,32,Division,0.5423728813559322,False
+General - Eng,86,46,Division,0.5348837209302325,False
+Executive,43,23,Division,0.5348837209302325,False
+Wireline Construction,180,96,Division,0.5333333333333333,False
+General - Con,509,269,Division,0.5284872298624754,False
+People Services,25,13,Division,0.52,False
+Underground,33,17,Division,0.5151515151515151,False
+Engineers,275,141,Division,0.5127272727272727,False
+Shop (Fleet),57,29,Division,0.5087719298245614,False
+Aerial,196,99,Division,0.5051020408163265,False
+Field Operations,789,397,Division,0.5031685678073511,False
+Technology / It,26,13,Division,0.5,False
+Isp,14,7,Division,0.5,False
+Project Management - Con,178,88,Division,0.4943820224719101,False
+Fielders,82,40,Division,0.4878048780487805,False
+Wireless,33,15,Division,0.45454545454545453,False
+Splicing,110,48,Division,0.43636363636363634,False
+General - Sga,117,48,Division,0.41025641025641024,False
+Data Architect,5,5,Job title,1.0,True
+Enterprise Architect,5,4,Job title,0.8,True
+Software Engineering Manager,10,7,Job title,0.7,False
+Senior BI Developer,30,20,Job title,0.6666666666666666,False
+BI Developer,44,29,Job title,0.6590909090909091,False
+Network Engineer,55,34,Job title,0.6181818181818182,False
+Accountant I,33,20,Job title,0.6060606060606061,False
+Sr. Network Engineer,50,28,Job title,0.56,False
+Shared Services Manager,20,11,Job title,0.55,False
+Production Manager,154,84,Job title,0.5454545454545454,False
+IT Manager - DB,22,12,Job title,0.5454545454545454,False
+BI Director,11,6,Job title,0.5454545454545454,False
+CIO,11,6,Job title,0.5454545454545454,False
+IT Manager - Infra,11,6,Job title,0.5454545454545454,False
+President & CEO,11,6,Job title,0.5454545454545454,False
+IT Support,88,47,Job title,0.5340909090909091,False
+Software Engineer,90,48,Job title,0.5333333333333333,False
+Administrative Assistant,33,17,Job title,0.5151515151515151,False
+Area Sales Manager,297,149,Job title,0.5016835016835017,False
+Sales Manager,30,15,Job title,0.5,False
+Sr. DBA,8,4,Job title,0.5,True
+Production Technician I,1321,656,Job title,0.49659348978046935,False
+Production Technician II,516,254,Job title,0.49224806201550386,False
+Data Analyst,55,27,Job title,0.4909090909090909,False
+Director of Operations,11,5,Job title,0.45454545454545453,False
+Director of Sales,11,5,Job title,0.45454545454545453,False
+IT Director,11,5,Job title,0.45454545454545453,False
+Database Administrator,25,11,Job title,0.44,False
+Sr. Accountant,13,5,Job title,0.38461538461538464,False
+Principal Data Architect,8,3,Job title,0.375,True
+IT Manager - Support,11,4,Job title,0.36363636363636365,False
